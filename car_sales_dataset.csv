@@ -1,0 +1,1001 @@
+Sale Date,Region,Sales Rep,Make,Model,Year,Sales Amount,Quantity Sold,Payment Method,Vehicle Type,Fuel Type,Color,Engine Size (L),Horsepower,Transmission,Trim Level,Dealer Location,Customer Age,Customer Gender
+3/19/2024,West,Kenneth Ramirez,Nissan,Murano,2022,48426.59,1,Lease,Sedan,Diesel,White,4.7,183,Automatic,Premium,Mejiaberg,64,Male
+12/1/2023,North,Jesse Williams,Audi,Q7,2018,34842.47,1,Lease,Hatchback,Gasoline,Red,2.9,395,Manual,Sport,South Brian,34,Male
+3/11/2024,South,William Fitzpatrick,Toyota,Highlander,2022,26837.52,4,Lease,Sedan,Gasoline,Blue,2.1,185,Manual,Premium,New Nicoleville,49,Female
+10/15/2024,West,John Walker,Toyota,Corolla,2019,34062.09,4,Bank Transfer,Truck,Electric,Blue,1.7,114,Manual,Premium,East Juan,34,Female
+10/23/2023,East,Robert Weiss,Audi,Q5,2023,70760.47,3,Lease,Hatchback,Diesel,Gray,1.5,487,Automatic,Sport,Torresborough,58,Female
+4/23/2024,South,Jeffery Hamilton,Chevrolet,Tahoe,2022,67606.58,3,Bank Transfer,Hatchback,Gasoline,Blue,2.2,278,Manual,Sport,East David,67,Female
+5/2/2025,West,Catherine Burnett,Honda,Civic,2020,24913.78,5,Credit Card,Sedan,Gasoline,Black,3.5,306,Automatic,Base,North Christinaton,34,Male
+4/1/2024,West,Richard Smith,Nissan,Sentra,2021,60709,4,Lease,Hatchback,Hybrid,Gray,3.4,206,Manual,Base,North Kristin,49,Male
+7/6/2024,North,Erin Barry,BMW,3 Series,2021,76318.96,5,Bank Transfer,Truck,Gasoline,White,2,345,Manual,Sport,Lake Morgan,51,Female
+9/10/2024,North,Timothy Salas,Hyundai,Elantra,2018,46968.1,3,Cash,Sedan,Diesel,Gray,1.9,483,Manual,Base,West Johntown,53,Female
+1/18/2025,South,Mark Mcconnell,Toyota,Corolla,2024,38793.9,4,Credit Card,Truck,Diesel,White,2.5,123,Automatic,Base,South Timothy,64,Male
+10/19/2025,West,Robert Valdez,Mercedes,C-Class,2022,48070.68,3,Credit Card,Truck,Diesel,White,3.6,219,Manual,Premium,Younghaven,30,Female
+8/13/2024,West,Harold Reed,Ford,Mustang,2021,46611.69,4,Cash,Hatchback,Hybrid,White,4.3,161,Automatic,Sport,Michaelbury,65,Female
+5/2/2025,West,Patricia Horton,Audi,A4,2023,20680.73,4,Credit Card,SUV,Hybrid,Red,3.3,325,Automatic,Sport,Christopherside,49,Male
+3/13/2025,East,Meghan Jones,Honda,CR-V,2021,76937.8,5,Credit Card,Hatchback,Gasoline,Black,1.6,454,Manual,Base,Port Jessica,52,Male
+3/31/2024,South,Timothy Nichols,Honda,Civic,2018,27803.06,5,Cash,Hatchback,Gasoline,Blue,1.5,408,Automatic,Sport,Katrinaborough,52,Male
+9/29/2025,South,Natalie Lawrence,Nissan,Sentra,2024,29094.61,5,Credit Card,Hatchback,Gasoline,Gray,2.3,149,Automatic,Sport,Davisfurt,38,Male
+1/5/2024,North,Jacob Wallace,Chevrolet,Malibu,2022,30334,1,Cash,Sedan,Gasoline,White,3.8,361,Manual,Base,Jessicaview,26,Female
+4/21/2024,East,Joe Johnson,Kia,Sportage,2024,28185.34,4,Credit Card,Hatchback,Electric,Red,4.3,371,Manual,Base,Lake Sean,67,Female
+11/9/2024,South,Kyle Norris,Hyundai,Elantra,2019,66088.33,5,Credit Card,SUV,Gasoline,Black,3.2,310,Automatic,Base,Thomasview,25,Male
+10/29/2022,West,Michelle Mack,Honda,CR-V,2021,56381.85,5,Bank Transfer,Hatchback,Gasoline,Black,3.9,395,Manual,Premium,Port Ashleyhaven,70,Female
+12/11/2022,South,Jeffrey Weiss,Audi,A3,2021,56096.81,2,Lease,Sedan,Gasoline,Red,3.6,223,Manual,Premium,Taylorbury,40,Male
+2/23/2024,North,Daniel Leonard,Chevrolet,Equinox,2020,67764.21,2,Credit Card,Sedan,Electric,Red,2.8,108,Manual,Base,New Joshua,58,Male
+3/9/2024,South,Walter Green,Nissan,Sentra,2024,22906.08,1,Cash,Truck,Diesel,White,4.8,160,Automatic,Sport,Daltonville,21,Male
+11/21/2024,South,Donna Ingram,Toyota,RAV4,2018,72917.38,5,Credit Card,Sedan,Gasoline,Blue,4.7,275,Manual,Sport,Lake Destiny,52,Female
+12/7/2022,South,Donald Smith,BMW,3 Series,2023,64432.3,1,Cash,Sedan,Gasoline,Red,2.8,220,Automatic,Sport,Hahnchester,41,Male
+8/12/2023,West,Christina Johnson,Mercedes,C-Class,2021,37480.02,3,Cash,Sedan,Electric,Blue,2.5,302,Automatic,Sport,North Rickside,57,Male
+12/13/2022,West,Amanda Watson,Audi,Q7,2019,30568.35,2,Cash,Hatchback,Hybrid,Black,1.2,161,Manual,Premium,Martinezshire,33,Female
+7/24/2023,East,Sandra Marsh MD,Kia,Seltos,2018,53805.62,3,Credit Card,Hatchback,Hybrid,Gray,3.6,102,Manual,Base,West Lisatown,21,Female
+3/21/2023,West,Jenny Ramirez,Ford,Escape,2021,54243.16,3,Cash,Sedan,Hybrid,Gray,2.9,483,Automatic,Base,Port Kevinfurt,50,Female
+2/8/2024,South,Scott Barr,Kia,Sorento,2018,43057.21,5,Cash,SUV,Hybrid,Red,1.3,174,Manual,Sport,Michaelberg,58,Female
+7/23/2024,East,Jillian Ramirez,Ford,F-150,2020,77966.7,3,Bank Transfer,Hatchback,Diesel,Red,1.4,383,Manual,Sport,East Marissa,37,Female
+3/22/2023,West,Daniel Hughes,Audi,A3,2019,76566.16,4,Credit Card,Hatchback,Hybrid,Red,3.9,337,Automatic,Sport,South Jodi,69,Female
+4/3/2024,South,Mark Cooper MD,Nissan,Altima,2020,54799.29,1,Bank Transfer,Truck,Diesel,Red,4.7,475,Manual,Sport,North Rickyberg,67,Male
+2/20/2024,North,Dr. Sierra Smith,BMW,5 Series,2020,55305.45,4,Cash,Hatchback,Diesel,Gray,3.3,421,Manual,Sport,Burtonmouth,21,Female
+6/27/2024,East,Bradley Jennings,Mercedes,GLE,2024,34287.39,4,Credit Card,Truck,Hybrid,Silver,3.5,309,Automatic,Sport,South Jose,38,Male
+7/30/2025,West,Gary Brown,Chevrolet,Impala,2021,46860.22,2,Cash,SUV,Gasoline,Black,4.1,192,Automatic,Sport,Laurachester,43,Female
+1/31/2024,East,Andrea Taylor,Ford,Mustang,2022,55681.48,3,Bank Transfer,Sedan,Diesel,Silver,1.3,350,Manual,Sport,Port Richard,40,Female
+8/19/2025,West,Jillian Robinson,Audi,Q5,2018,53175.11,4,Credit Card,Hatchback,Electric,Gray,1.3,401,Automatic,Base,Patrickfurt,64,Female
+4/20/2024,South,Samantha Gray,Chevrolet,Impala,2019,31487.91,2,Lease,SUV,Diesel,Blue,1.4,275,Manual,Base,Lake Kyle,58,Female
+9/2/2023,South,Jeffrey Williams,Ford,Mustang,2019,68373.1,5,Lease,SUV,Electric,Gray,2.9,265,Manual,Sport,Robertmouth,37,Female
+2/28/2025,South,Aaron Snyder,Honda,Pilot,2024,72398.86,1,Credit Card,Sedan,Gasoline,Black,2.4,306,Automatic,Base,Fuentesland,55,Male
+5/11/2023,North,Susan Powers,Nissan,Murano,2022,57157.67,1,Lease,Sedan,Gasoline,White,3.2,130,Manual,Sport,Jamesmouth,20,Female
+11/6/2023,North,Sharon Green,Nissan,Altima,2020,32233.17,1,Cash,Truck,Hybrid,Black,4,357,Automatic,Base,Port Sheri,20,Female
+2/28/2024,North,Elizabeth Hays,Hyundai,Elantra,2019,53964.92,3,Cash,SUV,Hybrid,Gray,2.2,306,Manual,Premium,Lake Kimberlyland,53,Female
+10/26/2023,North,Erin Murray MD,Mercedes,GLC,2021,77235.18,2,Credit Card,Truck,Electric,Silver,1.6,456,Automatic,Premium,Bakerton,68,Male
+3/11/2025,East,Christine White,Hyundai,Sonata,2019,42628.09,3,Cash,SUV,Electric,Blue,3,143,Automatic,Sport,Stacieshire,68,Male
+2/10/2023,East,Christopher Joyce,Audi,Q5,2019,36514.33,1,Credit Card,Truck,Diesel,Blue,4.2,335,Manual,Base,South Alicia,42,Male
+1/22/2023,East,Larry Simon,Audi,A4,2019,21234.72,5,Credit Card,Sedan,Hybrid,Gray,3.5,419,Automatic,Sport,New Coryfurt,57,Female
+9/4/2025,South,Sabrina Davis,Honda,Pilot,2024,45810.17,5,Credit Card,Sedan,Gasoline,White,3.8,249,Automatic,Sport,Lake Brandiside,32,Female
+10/4/2024,West,Richard French,Ford,Mustang,2021,35467.7,1,Bank Transfer,SUV,Diesel,Gray,2.6,204,Manual,Premium,Hallberg,21,Female
+4/5/2025,West,Larry Martinez,Kia,Seltos,2023,65921.05,1,Lease,Hatchback,Electric,Black,4.8,231,Automatic,Base,Lake Rebecca,24,Male
+7/24/2024,West,Amanda Turner,Ford,Escape,2021,50108,4,Credit Card,SUV,Electric,Gray,3.5,476,Manual,Base,New Brandonview,29,Female
+4/19/2024,South,Jesse Woodard,Toyota,RAV4,2019,60586.76,4,Lease,Truck,Electric,Silver,4.1,206,Automatic,Sport,East Matthewmouth,52,Female
+2/27/2023,East,Michael Wilson,Audi,Q5,2024,59441.85,1,Lease,SUV,Hybrid,White,2.3,249,Manual,Premium,Elizabethshire,43,Male
+4/17/2024,West,Lisa Welch,Audi,A4,2022,68320.15,5,Credit Card,SUV,Electric,Gray,2.6,246,Automatic,Sport,North Julie,60,Male
+1/13/2024,West,Michael Thornton,Nissan,Murano,2018,29897.77,4,Cash,Sedan,Hybrid,Silver,1.9,210,Automatic,Premium,North Stephanie,48,Male
+12/3/2024,West,Austin Rice,Nissan,Altima,2021,58558.64,3,Lease,Hatchback,Electric,White,2,220,Manual,Sport,Loganstad,35,Male
+8/13/2024,West,Jennifer Quinn,Nissan,Murano,2018,46779.92,2,Cash,Hatchback,Hybrid,White,1.2,425,Manual,Premium,Lake Kylemouth,27,Female
+8/8/2025,South,Richard Weaver,Toyota,RAV4,2022,76933.24,1,Lease,SUV,Hybrid,Red,4.5,303,Manual,Premium,South Todd,38,Female
+4/19/2025,North,Daniel Francis,Kia,Seltos,2023,41000.75,2,Bank Transfer,Hatchback,Gasoline,Red,3.4,456,Automatic,Premium,Amychester,22,Female
+5/13/2024,East,Amber Adams,Toyota,Corolla,2018,68534.35,5,Lease,Truck,Diesel,Gray,2.9,269,Manual,Sport,West Leahbury,58,Male
+3/1/2023,East,Christina Harrison,Mercedes,GLE,2023,73844.84,2,Cash,SUV,Electric,Silver,3.9,171,Automatic,Sport,North Barbaramouth,40,Male
+5/24/2023,West,Debbie Smith,Toyota,Corolla,2019,58192.01,3,Credit Card,Truck,Diesel,Silver,1.7,474,Automatic,Premium,Brittanyland,67,Female
+3/30/2023,West,Kyle Mack,Toyota,RAV4,2023,39954.91,3,Credit Card,Sedan,Diesel,Black,4.5,474,Manual,Sport,North Jenniferstad,33,Female
+4/25/2025,East,Kayla Berry,Chevrolet,Tahoe,2021,33773.4,5,Lease,Sedan,Diesel,Blue,1.4,369,Manual,Base,Matthewmouth,48,Male
+1/29/2024,East,Jennifer Mcknight,Toyota,Highlander,2022,52388.89,3,Bank Transfer,Truck,Gasoline,Gray,3.6,237,Manual,Sport,Dianachester,45,Female
+5/31/2023,South,Mr. Jesse Allen,Audi,A4,2022,20158.57,1,Lease,Hatchback,Diesel,Red,3.5,323,Automatic,Base,North Lisamouth,40,Female
+12/1/2023,East,Robert Perez,Kia,Optima,2018,66442.32,2,Lease,SUV,Hybrid,White,3.8,405,Manual,Sport,South Markburgh,67,Male
+9/23/2023,West,Judy Foster,BMW,X3,2019,56963.13,5,Bank Transfer,Sedan,Diesel,Blue,3.8,384,Automatic,Sport,Williamland,39,Male
+10/3/2024,North,Gabrielle Smith,Toyota,RAV4,2018,27658.62,5,Cash,Hatchback,Diesel,Black,2.3,385,Manual,Premium,Portershire,27,Male
+10/9/2023,West,Debbie Richmond,Honda,CR-V,2019,63908.9,3,Cash,Hatchback,Gasoline,Black,2.2,481,Automatic,Premium,Patriciaport,26,Male
+10/2/2025,East,Eric Miller,Chevrolet,Impala,2024,52031.47,1,Cash,Truck,Electric,Blue,3.4,196,Automatic,Premium,North Linda,70,Male
+6/19/2024,West,Lauren Rhodes,Ford,Escape,2018,58648.45,3,Credit Card,Truck,Diesel,Blue,1.4,167,Manual,Sport,North Matthewburgh,55,Male
+10/24/2025,West,Steven Macias,Nissan,Rogue,2019,78681.58,5,Bank Transfer,Truck,Hybrid,Red,2.3,245,Automatic,Base,North Joseph,38,Female
+4/13/2024,South,Adriana Morales DDS,Hyundai,Tucson,2019,68148.71,2,Lease,Hatchback,Gasoline,Silver,1.5,456,Manual,Sport,South Dean,59,Female
+4/25/2025,East,David Lewis DVM,Hyundai,Tucson,2021,62291.35,4,Credit Card,Truck,Hybrid,Black,4.5,426,Automatic,Base,Michaeltown,35,Female
+5/22/2023,East,Michael Matthews,Honda,CR-V,2023,37829.08,5,Bank Transfer,Truck,Hybrid,Gray,3.9,111,Manual,Base,West Adam,50,Male
+3/17/2025,West,Heather Rollins,Chevrolet,Tahoe,2024,63839.31,3,Cash,Sedan,Diesel,Black,4.8,230,Automatic,Sport,West Tammy,36,Female
+7/31/2024,West,Chad Reeves,Honda,Civic,2024,32125.99,1,Lease,Hatchback,Diesel,Black,2.6,241,Automatic,Premium,Port Debbie,51,Female
+8/11/2024,East,Dana Mack,Honda,Pilot,2023,51250.24,1,Credit Card,Sedan,Hybrid,Red,1.4,241,Automatic,Premium,South Stephenchester,28,Male
+1/7/2024,East,Gregory Rivera,Mercedes,E-Class,2024,47284.59,4,Credit Card,Hatchback,Hybrid,Black,1.5,304,Automatic,Premium,Matthewbury,67,Female
+5/15/2025,East,Lisa Aguilar,Audi,A4,2019,56222.47,2,Lease,Hatchback,Electric,Gray,1.1,133,Manual,Base,Brandonshire,23,Male
+10/5/2023,South,Christopher Smith,Mercedes,GLC,2024,45083.86,1,Cash,Truck,Diesel,Gray,3.9,411,Manual,Premium,North Graceside,24,Female
+7/13/2025,North,Nicole Peterson,Kia,Optima,2024,45447.95,5,Lease,Truck,Electric,Red,3.3,373,Automatic,Base,North Robert,54,Female
+4/12/2023,West,Jessica Frazier,Audi,Q5,2019,64385.05,2,Credit Card,Sedan,Hybrid,Gray,1.5,326,Automatic,Base,Pearsonmouth,37,Female
+4/7/2024,North,Karen Carr,Toyota,Camry,2022,20683.5,5,Cash,SUV,Electric,Gray,2.8,100,Manual,Premium,Mcguirehaven,67,Female
+6/22/2025,North,Megan Steele,Hyundai,Sonata,2019,63990.8,5,Cash,Sedan,Gasoline,Silver,3,350,Manual,Premium,New Gavin,61,Female
+8/6/2024,East,Kurt Smith,BMW,X5,2021,75315.92,4,Lease,Truck,Hybrid,Black,1.3,446,Automatic,Base,Lake Keithside,40,Male
+9/17/2024,South,Kelsey Murphy,Toyota,Camry,2021,68316.83,3,Lease,Truck,Electric,Silver,1.5,206,Manual,Premium,South Brandon,50,Male
+3/4/2024,West,Tiffany Harper,Nissan,Sentra,2020,48120.33,4,Credit Card,Truck,Gasoline,Blue,3,159,Automatic,Base,Lake Roy,31,Male
+5/18/2024,South,Gabriel Thompson,BMW,X5,2023,78732.87,2,Lease,SUV,Hybrid,White,4.1,423,Automatic,Base,Port Michelle,29,Female
+5/8/2023,South,James Jimenez,Audi,A3,2018,26416.81,1,Bank Transfer,Truck,Electric,Red,2.1,236,Automatic,Base,South Jamesport,43,Female
+9/2/2025,South,Jose Hogan,Nissan,Murano,2019,51753.82,2,Bank Transfer,Truck,Gasoline,Gray,4.1,138,Manual,Premium,North Christianbury,21,Male
+11/5/2024,West,Lindsay Wilson,Honda,Pilot,2023,56161.6,4,Credit Card,Truck,Hybrid,Blue,1.8,250,Manual,Sport,West Jeremy,48,Female
+7/12/2024,South,Amanda Gross,Chevrolet,Malibu,2021,48615.14,5,Bank Transfer,Hatchback,Gasoline,White,4.9,298,Manual,Sport,Lake Christineview,20,Male
+12/31/2022,North,Joan Warren,Honda,CR-V,2019,79663.07,2,Bank Transfer,SUV,Electric,White,4.5,176,Automatic,Sport,South Laura,27,Male
+7/3/2025,East,Tiffany Flowers,Chevrolet,Tahoe,2021,24392.9,4,Cash,Truck,Electric,Red,4.3,249,Automatic,Sport,New Stephenborough,64,Male
+7/24/2024,East,Danny Montoya,Chevrolet,Malibu,2019,74621.87,1,Credit Card,Sedan,Diesel,Silver,3.3,164,Manual,Premium,East Tiffanyhaven,46,Female
+6/9/2024,South,John Rivera,Honda,CR-V,2022,22913.68,4,Bank Transfer,Truck,Diesel,Gray,5,199,Manual,Premium,Lake Rodney,26,Male
+9/14/2024,West,Morgan Murphy,Ford,Explorer,2024,47963.48,4,Credit Card,Hatchback,Diesel,White,3.8,380,Manual,Sport,New Melanie,70,Male
+12/23/2024,North,Timothy Perkins,Ford,F-150,2023,58996.76,3,Bank Transfer,Truck,Hybrid,Gray,4.1,431,Manual,Base,Kaylaborough,20,Male
+2/5/2023,West,Terri Taylor,Honda,CR-V,2018,71923.5,5,Lease,SUV,Gasoline,Blue,2.2,281,Manual,Sport,Lewisland,24,Female
+12/16/2024,North,David Bell,Honda,CR-V,2019,42036.67,5,Credit Card,Hatchback,Diesel,Gray,1.1,150,Automatic,Base,Maryfort,69,Female
+6/23/2025,North,Michael Holland,Hyundai,Elantra,2021,44831.4,5,Lease,Truck,Gasoline,Gray,3.3,320,Automatic,Sport,Richardsonberg,68,Female
+2/25/2024,South,Sydney Conrad,Toyota,Corolla,2023,34399.61,3,Cash,Sedan,Hybrid,Silver,2.2,186,Automatic,Sport,Karenbury,26,Male
+6/18/2024,West,Stephen Gonzales,Toyota,Camry,2019,57813.93,2,Bank Transfer,Sedan,Gasoline,White,4.5,176,Automatic,Sport,Hardyside,55,Female
+4/17/2024,North,Jill Powell,Toyota,Corolla,2018,33388.45,3,Credit Card,SUV,Diesel,Blue,3.9,454,Automatic,Premium,North Alexandraborough,56,Male
+8/17/2024,East,Nicholas Cruz,Hyundai,Elantra,2021,44112.03,1,Bank Transfer,SUV,Hybrid,Blue,2.1,457,Automatic,Base,Taylormouth,58,Male
+7/14/2023,East,Matthew Gregory,BMW,X5,2024,61611.35,1,Cash,Truck,Gasoline,Blue,1.6,260,Manual,Sport,Cameronshire,50,Male
+5/30/2024,West,Sierra Moore,Audi,A4,2018,50120.92,1,Lease,Truck,Hybrid,Red,3.7,104,Manual,Premium,Josebury,37,Male
+1/27/2024,East,John Daniels,Honda,Civic,2021,39403.26,5,Bank Transfer,SUV,Electric,Red,3.5,140,Manual,Base,Bergerview,26,Female
+8/4/2023,East,Kimberly Fox,Chevrolet,Tahoe,2019,76487.6,1,Bank Transfer,Truck,Hybrid,Blue,2.5,347,Manual,Base,New Kristen,47,Male
+1/29/2023,South,Robert Berg,Toyota,RAV4,2019,39169.98,4,Cash,Hatchback,Diesel,Black,1.7,292,Automatic,Sport,Port Anthony,32,Male
+5/26/2023,South,Victoria Franklin,Toyota,Corolla,2022,56400.25,5,Credit Card,Truck,Electric,Red,4.8,214,Automatic,Sport,Amyton,53,Female
+5/12/2023,East,Stacy Simmons,Audi,Q7,2024,38429.82,5,Cash,Sedan,Gasoline,Gray,4.2,462,Automatic,Base,Lake Williamstad,48,Female
+12/11/2023,West,Erik Jones,Hyundai,Tucson,2023,52552.7,2,Credit Card,Sedan,Gasoline,Blue,4.3,219,Manual,Premium,Schmittton,32,Male
+4/6/2023,South,Gina Harrison,Nissan,Altima,2023,55086.13,4,Credit Card,Hatchback,Gasoline,Blue,2.7,489,Manual,Sport,New Harryfurt,42,Male
+9/20/2024,East,Hailey Hart,Toyota,Corolla,2022,54531.34,2,Lease,Hatchback,Gasoline,Black,4.7,232,Automatic,Premium,New Johnfort,49,Male
+5/16/2024,North,Sarah Hanson,Chevrolet,Impala,2020,77902.79,1,Bank Transfer,Truck,Diesel,Silver,3.4,297,Automatic,Sport,West Kelly,53,Male
+3/6/2024,North,Jeremy Andrews,Audi,A4,2019,39686.05,2,Bank Transfer,SUV,Electric,White,3.6,251,Manual,Sport,Whiteheadton,60,Male
+8/10/2025,North,Alexis Walter,Toyota,Highlander,2021,35607.93,3,Credit Card,Hatchback,Electric,Silver,3.1,480,Automatic,Premium,Port Kelly,50,Female
+8/9/2025,North,Richard Johnson,BMW,X5,2019,57314.83,1,Bank Transfer,Sedan,Gasoline,Red,3.4,224,Automatic,Premium,Frankchester,43,Male
+10/25/2023,East,Alejandra Watkins,Mercedes,GLE,2018,52320.07,3,Bank Transfer,Truck,Electric,White,1.4,465,Automatic,Premium,Mooreport,68,Male
+2/27/2024,North,Nancy Williams,Kia,Optima,2020,39741.98,2,Bank Transfer,SUV,Diesel,Red,4.7,325,Automatic,Base,North Pamela,24,Female
+4/25/2024,South,Anthony Vaughn,Kia,Seltos,2022,73685.77,5,Bank Transfer,SUV,Diesel,White,4.8,369,Manual,Base,Michaelside,57,Male
+3/31/2024,West,Connie Mercado,Honda,Accord,2024,46249.09,3,Lease,Truck,Diesel,Blue,3,442,Automatic,Sport,North Samuelfort,67,Male
+2/2/2024,East,Jose Hernandez,Honda,Civic,2023,32036.08,5,Cash,Truck,Gasoline,Blue,1.3,404,Automatic,Sport,Wilsonmouth,37,Female
+7/11/2023,West,Melissa Kramer,Nissan,Murano,2021,51602.48,4,Bank Transfer,Sedan,Diesel,Blue,3.7,139,Automatic,Base,North Emilyburgh,70,Female
+1/29/2025,West,Barbara Baxter,BMW,X3,2019,52584.43,2,Cash,SUV,Gasoline,Black,1.1,420,Manual,Sport,Jessicaville,65,Male
+12/21/2024,West,Michelle Wiley,Nissan,Murano,2024,65904.52,2,Credit Card,SUV,Electric,Silver,5,165,Automatic,Premium,Deanhaven,37,Female
+3/3/2025,South,Tyler Crawford,Audi,A4,2024,46146.71,2,Cash,Truck,Diesel,Red,1.4,270,Manual,Sport,New Leslie,63,Female
+7/25/2023,West,Evan Cordova,Chevrolet,Equinox,2021,77504.63,3,Bank Transfer,Truck,Electric,Silver,1.2,357,Automatic,Base,Lindaland,46,Male
+6/22/2023,East,Valerie Johnson,Toyota,RAV4,2020,30854.4,3,Credit Card,Hatchback,Gasoline,Red,4.9,370,Manual,Base,Kimberlyside,34,Female
+4/13/2023,South,Diana Dean,Kia,Sportage,2021,61075.01,5,Credit Card,SUV,Gasoline,Gray,1.6,468,Automatic,Sport,North Christopherland,67,Female
+1/16/2023,West,Ryan Nelson,Mercedes,C-Class,2023,24360.68,4,Bank Transfer,SUV,Electric,Black,2.4,435,Manual,Base,Buckstad,32,Female
+3/17/2024,East,Justin Johnson,BMW,3 Series,2023,48108.44,5,Bank Transfer,Truck,Gasoline,Blue,2.9,184,Automatic,Sport,North Margaretton,29,Female
+9/10/2025,North,Mr. Peter Daniels,Ford,Explorer,2022,75752.04,2,Bank Transfer,SUV,Gasoline,Gray,2.1,228,Manual,Premium,Annastad,60,Female
+1/8/2023,West,Adam Young,Toyota,Highlander,2019,66686.24,1,Cash,Truck,Electric,Blue,4.2,180,Manual,Base,Port Jack,21,Female
+3/5/2025,South,Sherry Burton,Toyota,Corolla,2020,75063.04,1,Credit Card,SUV,Diesel,Black,2.3,198,Automatic,Premium,Tiffanyburgh,29,Female
+5/18/2025,East,Justin Hudson,Chevrolet,Tahoe,2020,28072.23,3,Credit Card,SUV,Gasoline,Blue,1.3,314,Automatic,Premium,Port Julie,21,Male
+11/3/2023,South,Frank Walters,Kia,Sorento,2021,22312.85,5,Credit Card,Hatchback,Hybrid,Blue,2.9,135,Manual,Sport,Williamville,60,Male
+6/29/2025,East,Brian Hudson,Ford,F-150,2024,77639.92,3,Lease,Sedan,Gasoline,Silver,3,330,Automatic,Sport,North Amber,30,Male
+8/23/2025,West,Laura Jackson,Honda,Accord,2022,34455.21,4,Credit Card,Truck,Hybrid,Silver,1.5,349,Manual,Base,Jenniferside,47,Male
+6/19/2023,West,Jessica Gray,Audi,Q5,2022,28292.61,1,Cash,Hatchback,Diesel,Black,4.4,140,Automatic,Sport,Andersonhaven,51,Female
+3/27/2025,East,Justin Sanders,Nissan,Murano,2020,53540.01,1,Credit Card,Hatchback,Electric,Blue,2.1,395,Manual,Sport,Kirktown,60,Female
+11/24/2023,West,Samantha Wilkerson,Chevrolet,Malibu,2018,64960.31,1,Lease,Sedan,Diesel,Silver,1,356,Manual,Premium,Williambury,47,Male
+11/8/2023,North,Brian Phillips,Audi,Q5,2022,68746.24,1,Credit Card,Hatchback,Electric,Blue,3.6,329,Automatic,Premium,Fergusonmouth,24,Male
+12/16/2022,East,Jimmy Hall,Mercedes,E-Class,2021,43466.18,5,Lease,SUV,Electric,Blue,3.6,279,Manual,Base,New Jon,30,Female
+1/11/2024,West,Kevin Cooke,Ford,Mustang,2023,66165.71,3,Cash,Hatchback,Electric,White,1.6,410,Automatic,Base,Nicholeberg,31,Female
+10/19/2023,West,Brian Hart,Ford,Mustang,2018,20006.4,3,Bank Transfer,Truck,Electric,Gray,1.1,474,Automatic,Base,North Angelaside,46,Female
+1/8/2025,West,Joseph Lewis,Mercedes,GLC,2018,23134.77,2,Credit Card,Sedan,Hybrid,White,4.3,411,Manual,Base,Lake Jessicachester,20,Male
+5/29/2025,North,Jessica Williams,Kia,Sorento,2019,41466.33,2,Bank Transfer,SUV,Electric,Red,1.8,225,Manual,Sport,Lake Michelleport,40,Male
+1/5/2023,West,James Padilla,Nissan,Rogue,2019,31763.37,2,Credit Card,Hatchback,Electric,Red,2.7,187,Manual,Sport,Walshview,63,Male
+9/9/2025,North,Susan Pham,Ford,F-150,2018,70754.15,1,Credit Card,Sedan,Diesel,Blue,4.7,271,Manual,Sport,Brockstad,30,Male
+11/16/2024,North,John Rodriguez,Hyundai,Elantra,2020,42388.79,2,Credit Card,Hatchback,Hybrid,White,2.7,296,Manual,Premium,Matthewfort,43,Female
+9/22/2024,South,David Miller,Nissan,Murano,2022,79738.4,5,Cash,Truck,Diesel,White,1.8,284,Automatic,Sport,Port Jessica,37,Female
+7/21/2023,East,Priscilla Roberts,Toyota,Corolla,2019,34796.95,1,Cash,Sedan,Hybrid,Red,4.4,180,Manual,Base,New Michelle,42,Male
+7/20/2023,South,Jonathan Smith,Toyota,RAV4,2018,22664.31,4,Credit Card,Hatchback,Hybrid,White,2.8,112,Manual,Sport,South Shawnshire,41,Female
+1/5/2023,South,Elizabeth Stevens,Honda,CR-V,2023,66852.46,5,Bank Transfer,Sedan,Hybrid,Black,3.1,491,Manual,Base,North Michelle,58,Female
+2/9/2025,East,Jane Salas,Toyota,Highlander,2018,62244.68,2,Cash,Truck,Electric,Black,4.4,206,Manual,Base,Amandaside,62,Male
+7/19/2025,South,Robert Cannon,Audi,A4,2021,54750,5,Credit Card,Truck,Hybrid,White,4.2,172,Manual,Sport,Markside,46,Male
+4/22/2024,North,Kristen Scott,Nissan,Altima,2018,56709.97,3,Cash,Sedan,Diesel,Gray,4.7,130,Automatic,Sport,North Amber,57,Male
+3/20/2023,North,Luis Perez,Nissan,Murano,2018,79150.35,5,Cash,Truck,Hybrid,Red,2.6,495,Automatic,Premium,Schneiderberg,61,Female
+10/3/2023,West,Sherry Andersen,BMW,X5,2023,77455.85,2,Cash,Truck,Hybrid,Gray,2.5,145,Automatic,Sport,Debrachester,49,Female
+7/2/2023,East,Jeffrey Gross,Toyota,Corolla,2020,58325.78,5,Lease,Sedan,Hybrid,White,4.9,204,Manual,Base,Jasonmouth,22,Male
+4/18/2025,South,Megan Buchanan,Ford,Mustang,2018,61310.96,2,Lease,SUV,Hybrid,Gray,4.5,223,Automatic,Base,Port Lisatown,42,Female
+8/5/2024,West,Teresa Arroyo,Toyota,Highlander,2021,32271.14,4,Lease,SUV,Gasoline,Red,2.6,110,Automatic,Premium,Ramirezmouth,36,Male
+4/1/2023,West,Michael Williamson,Nissan,Altima,2018,64565.94,5,Lease,Sedan,Electric,White,2.9,160,Automatic,Premium,New Brittany,41,Male
+7/21/2024,North,Elizabeth Kelly,Toyota,RAV4,2022,68547.6,2,Cash,Sedan,Electric,Gray,4.6,180,Manual,Premium,New Sherribury,47,Male
+9/11/2025,North,Patrick Jenkins,Chevrolet,Impala,2019,69743.95,1,Credit Card,SUV,Electric,Gray,3.6,280,Automatic,Base,Jamesmouth,39,Female
+4/16/2023,East,Donna Horn,Ford,Mustang,2021,35166.92,4,Lease,Truck,Gasoline,Black,3.8,155,Manual,Base,West Jessemouth,47,Male
+6/24/2025,West,Dr. Patrick Cannon II,Mercedes,GLC,2022,79846.16,2,Cash,Sedan,Gasoline,Gray,1.6,181,Automatic,Premium,Claytonborough,48,Female
+11/12/2022,North,John Allen,Kia,Optima,2018,30971.51,3,Lease,SUV,Hybrid,Black,4.2,357,Manual,Sport,Penamouth,26,Male
+4/3/2024,South,Brittney Rubio MD,Nissan,Altima,2019,58998.69,1,Cash,Hatchback,Electric,Black,5,132,Automatic,Premium,New Marvin,64,Male
+12/13/2024,West,Kimberly Howell,Kia,Seltos,2021,78352.34,3,Credit Card,Hatchback,Diesel,Silver,4.1,225,Manual,Base,Mooreshire,42,Female
+11/23/2022,North,Matthew Phillips,Hyundai,Santa Fe,2019,37883.64,3,Credit Card,Truck,Hybrid,Silver,2.3,182,Manual,Premium,Mollyton,25,Male
+2/18/2024,North,Amy Fitzgerald,Honda,Civic,2021,67571.13,1,Bank Transfer,Truck,Diesel,White,3,311,Automatic,Sport,West Lisachester,41,Female
+4/2/2023,North,Jeffrey Washington,Nissan,Murano,2022,71789.64,5,Cash,Sedan,Electric,Blue,1.8,386,Manual,Premium,Orozcofort,37,Female
+10/8/2025,East,Chris Kelley,Toyota,Corolla,2024,76309.66,3,Lease,Truck,Electric,Black,4,206,Manual,Premium,Port Michelle,40,Male
+8/11/2024,North,Thomas Reed,Audi,Q7,2019,23816.14,2,Bank Transfer,Sedan,Hybrid,White,3.1,478,Manual,Premium,Duncanfort,28,Male
+9/3/2024,South,Michael Combs,Kia,Optima,2023,48279.75,2,Credit Card,Truck,Hybrid,Black,4.7,253,Automatic,Premium,Hayesmouth,70,Female
+5/24/2024,North,Christopher Bailey,Audi,A3,2020,59803.65,3,Credit Card,SUV,Hybrid,Black,2.1,256,Automatic,Premium,East Brittanyville,49,Female
+10/26/2025,West,Jessica Mcintosh,BMW,X3,2022,25208.44,4,Bank Transfer,Sedan,Electric,Silver,2,123,Automatic,Sport,Lewisshire,67,Male
+8/4/2025,North,Kimberly Watson,Honda,Pilot,2021,51330.18,2,Cash,Hatchback,Gasoline,White,2.5,406,Automatic,Sport,South Katherinefurt,37,Male
+11/17/2023,South,Mary Williams,Honda,CR-V,2018,55360.08,1,Credit Card,Sedan,Gasoline,Gray,2.1,240,Manual,Premium,Jessicastad,47,Male
+2/13/2025,East,Emily Ali,Hyundai,Tucson,2019,49703.76,2,Credit Card,SUV,Gasoline,White,3.1,334,Automatic,Base,South Robert,43,Male
+3/11/2024,West,Lawrence Lyons,Mercedes,GLC,2023,35517.8,2,Lease,SUV,Diesel,White,2.6,204,Automatic,Base,Davischester,47,Female
+10/4/2024,East,Donna Harper,Honda,Pilot,2020,50766.05,5,Lease,SUV,Diesel,Gray,4.1,430,Manual,Premium,New Michaelville,51,Male
+12/27/2022,South,Mia Parker,Chevrolet,Malibu,2020,34262.01,4,Bank Transfer,Hatchback,Gasoline,Gray,1.6,487,Manual,Base,Kennethtown,59,Male
+7/17/2024,South,Larry Barber,Ford,Escape,2022,23831.7,4,Cash,Hatchback,Gasoline,White,1.2,139,Automatic,Sport,South Timothystad,38,Female
+8/19/2024,North,Russell Williams,Ford,Mustang,2022,66218.34,4,Credit Card,Truck,Diesel,Blue,1.8,303,Automatic,Premium,North Kent,63,Male
+10/1/2025,North,Abigail Galloway,Toyota,RAV4,2019,43605.51,5,Cash,Hatchback,Electric,Blue,3.8,295,Automatic,Base,Whiteheadhaven,38,Female
+2/12/2023,North,Nicholas Gill,Chevrolet,Malibu,2021,62488.12,3,Lease,Sedan,Hybrid,Blue,4.8,422,Manual,Sport,Port Jerrymouth,53,Male
+8/5/2024,West,Amy Bryant DVM,Hyundai,Santa Fe,2021,64144.53,5,Credit Card,Truck,Electric,White,2.8,258,Automatic,Base,Brandonborough,29,Female
+6/9/2024,West,Daniel Winters,Ford,F-150,2018,35260.25,5,Credit Card,Sedan,Hybrid,Silver,1.2,469,Manual,Sport,Walterbury,30,Male
+9/21/2025,South,Brian Freeman,Kia,Optima,2020,61581.44,5,Credit Card,SUV,Gasoline,Silver,3,186,Automatic,Base,Richardfurt,49,Female
+2/26/2024,North,Melanie Stone,Chevrolet,Tahoe,2018,76589.12,2,Credit Card,Truck,Electric,Red,4.1,227,Manual,Base,Heatherhaven,60,Male
+4/29/2024,West,Michael Moreno,Audi,A4,2020,40437.79,3,Credit Card,Hatchback,Electric,Black,4.9,446,Automatic,Sport,Lake Nichole,39,Male
+8/30/2023,East,Daniel Alexander,Kia,Seltos,2022,42497.1,4,Credit Card,Sedan,Hybrid,Red,2.5,213,Manual,Premium,New Julia,64,Male
+8/8/2023,South,Renee Brady,Toyota,Highlander,2022,53876.04,1,Cash,SUV,Diesel,Blue,4.1,229,Manual,Base,East Hunter,46,Male
+6/27/2023,West,Mr. Warren Moore,Honda,Accord,2022,60457.75,2,Cash,Truck,Diesel,Red,4.6,127,Manual,Base,Jonesstad,54,Male
+8/13/2024,West,Andrew Wells,BMW,X3,2022,58344.25,1,Lease,Hatchback,Hybrid,Gray,4.9,479,Manual,Premium,Lake Katelynton,34,Male
+8/30/2025,West,Allison Turner,Chevrolet,Tahoe,2021,29044.12,1,Lease,SUV,Hybrid,Black,3.8,134,Automatic,Premium,East Ronniechester,26,Female
+4/7/2025,West,Ashley Watts,Nissan,Rogue,2024,79871.5,5,Cash,SUV,Diesel,Blue,4.3,237,Automatic,Premium,New Jenna,70,Male
+10/23/2024,North,Jasmine Snyder,Ford,Escape,2024,58971.95,3,Lease,Hatchback,Electric,Red,4,197,Manual,Base,Michaelville,33,Female
+9/20/2024,North,Kendra Bishop,BMW,3 Series,2020,71286.78,2,Lease,SUV,Electric,White,4.5,111,Manual,Premium,Jefferyville,69,Male
+3/5/2023,South,Patrick Mcdowell,Ford,Mustang,2022,34167.92,2,Cash,Sedan,Gasoline,White,5,109,Automatic,Sport,Carmenhaven,40,Female
+8/2/2025,North,Kenneth Schmidt,Honda,Accord,2022,23096.52,4,Lease,SUV,Electric,Blue,2.3,420,Manual,Sport,South Robertview,60,Male
+8/23/2025,West,Katherine Greer,Kia,Seltos,2019,27853.39,5,Bank Transfer,SUV,Gasoline,Silver,1,193,Automatic,Sport,West Natalieville,57,Female
+7/2/2023,East,Stacie Guzman,Chevrolet,Impala,2019,48180.82,3,Credit Card,Truck,Gasoline,White,2.8,109,Automatic,Premium,Walterbury,62,Female
+8/1/2023,East,Maria Patel,Mercedes,C-Class,2018,33347.56,3,Cash,Hatchback,Gasoline,Black,2.5,249,Manual,Base,Wheelershire,24,Female
+6/21/2025,West,Ashley Conner,BMW,3 Series,2020,76077.99,1,Credit Card,Hatchback,Gasoline,Red,2.8,488,Automatic,Base,Lisastad,53,Female
+10/15/2023,East,Gabriel Hanson,Honda,CR-V,2023,50146.66,2,Credit Card,Sedan,Hybrid,Black,4,474,Manual,Base,East Emilytown,45,Male
+3/25/2024,West,Matthew Lee,Mercedes,E-Class,2023,77325.13,4,Bank Transfer,Sedan,Hybrid,Gray,4.9,454,Automatic,Sport,West Margaretborough,54,Female
+7/21/2023,West,Kyle Johns,Mercedes,GLC,2019,31622,4,Credit Card,Sedan,Electric,Gray,1.9,422,Automatic,Base,Port Miguel,57,Female
+11/7/2024,South,Thomas Stanley,Honda,Accord,2020,77857.43,2,Lease,Sedan,Gasoline,Red,3,305,Automatic,Sport,South Ebony,70,Male
+5/16/2025,South,Mary Mills,Honda,CR-V,2018,47028.93,1,Lease,Hatchback,Electric,Gray,4.6,499,Manual,Base,Shellyshire,66,Female
+1/26/2024,West,Angel Townsend,Hyundai,Santa Fe,2023,57937.33,1,Bank Transfer,Sedan,Hybrid,Gray,2.2,305,Manual,Premium,East Traviston,21,Female
+4/1/2025,East,Kristin Banks,Nissan,Altima,2020,77787.48,1,Cash,SUV,Electric,Red,1.9,317,Automatic,Sport,Lisamouth,48,Female
+2/12/2025,North,Amanda Parker,Audi,A3,2018,30381.05,1,Lease,Sedan,Gasoline,White,5,464,Manual,Base,Jeremyville,49,Male
+5/25/2024,South,Elizabeth Santiago,Honda,Pilot,2018,54125.09,1,Bank Transfer,Sedan,Gasoline,Black,1.1,470,Manual,Premium,Bobborough,38,Male
+6/20/2023,West,Kathryn Romero,Honda,Accord,2020,53427,1,Cash,Sedan,Diesel,Silver,1.4,447,Manual,Premium,Port Rachel,67,Female
+7/10/2025,East,Darrell Arnold,BMW,5 Series,2022,62629.47,2,Credit Card,Hatchback,Gasoline,White,3.5,447,Manual,Base,South Kevin,61,Male
+3/7/2025,West,Alexander Erickson,Mercedes,E-Class,2020,43274.81,5,Bank Transfer,Sedan,Electric,Silver,3.4,145,Manual,Sport,New Darylport,61,Male
+5/2/2023,West,Paul Jackson,Kia,Sorento,2021,34192.77,4,Credit Card,Sedan,Diesel,Blue,4.8,492,Automatic,Base,South Tiffanystad,38,Male
+4/30/2025,East,Rebecca Adams,Kia,Sportage,2018,42130.05,1,Lease,Truck,Electric,Red,2.1,401,Manual,Base,South Michael,21,Male
+7/26/2025,South,David Henderson,Toyota,Highlander,2024,39107.41,1,Cash,SUV,Electric,Gray,2.6,340,Manual,Sport,West Kathleenton,20,Male
+8/15/2023,South,Nicholas Griffith,Mercedes,C-Class,2021,74975.74,4,Credit Card,Hatchback,Gasoline,Blue,4.5,290,Manual,Base,Cooperville,22,Female
+6/13/2023,South,Jennifer Hughes,Nissan,Murano,2020,40779.01,1,Credit Card,Sedan,Electric,Red,2.4,498,Automatic,Premium,New Christopherside,23,Female
+6/29/2024,North,Julie Mcneil,Honda,Pilot,2022,44511.26,3,Credit Card,SUV,Electric,Red,4.6,245,Automatic,Base,East Ericfurt,43,Male
+5/30/2025,East,Crystal Ramirez,Ford,Escape,2022,72987.27,3,Lease,Sedan,Diesel,Blue,3.6,146,Automatic,Sport,Jonathanmouth,38,Male
+11/1/2023,West,Cindy Jenkins,Toyota,Highlander,2018,64710.3,1,Lease,SUV,Gasoline,Blue,1.7,272,Manual,Base,South Stephenbury,37,Female
+6/19/2025,West,Derek Stafford,Toyota,Camry,2024,61626.4,1,Credit Card,Sedan,Hybrid,Black,1.7,270,Automatic,Premium,Lake David,29,Female
+9/17/2025,East,Timothy Cook,Mercedes,GLC,2020,53518.15,5,Credit Card,Sedan,Electric,White,5,392,Manual,Base,Robertfort,58,Female
+2/26/2024,East,George Cook,BMW,3 Series,2019,64764.18,5,Cash,Sedan,Hybrid,Blue,2.5,245,Automatic,Base,North Nicolemouth,67,Male
+11/28/2023,South,Joseph Barrera,Audi,A3,2018,33483.13,2,Lease,Hatchback,Hybrid,Blue,1.5,244,Manual,Premium,Justinport,26,Male
+6/3/2024,South,Mr. Brandon Thompson,Honda,Civic,2021,53510.34,2,Cash,Hatchback,Gasoline,Gray,2.4,326,Manual,Base,New Deborah,62,Male
+9/24/2023,South,Warren Noble,Hyundai,Tucson,2021,34258.49,1,Bank Transfer,SUV,Diesel,Blue,1.8,235,Manual,Sport,New Olivia,28,Female
+2/19/2024,East,Michelle Wu,Kia,Seltos,2022,69434.88,4,Bank Transfer,Truck,Hybrid,Silver,4.9,393,Manual,Base,South Sergioville,22,Female
+9/2/2024,East,Nathaniel Cooke,Audi,A4,2024,47894.24,1,Cash,Truck,Hybrid,Blue,3.5,124,Automatic,Base,Campbellburgh,66,Male
+8/13/2023,South,Steve Barber,Kia,Seltos,2018,78815.42,5,Lease,Hatchback,Electric,Red,3.4,181,Automatic,Sport,West Christopherville,36,Male
+10/10/2024,North,Timothy Alexander,Toyota,RAV4,2023,28796.23,1,Credit Card,Sedan,Electric,Gray,3.1,182,Automatic,Sport,South Victoriaton,64,Male
+5/20/2023,North,Steven Wilson,Nissan,Murano,2022,59958.51,3,Lease,Hatchback,Electric,Blue,1.8,446,Manual,Sport,West Brenda,53,Male
+12/2/2022,East,Michelle Lawrence,Kia,Sportage,2022,28248.06,3,Credit Card,Sedan,Hybrid,Red,4.3,239,Manual,Base,East Jamiechester,20,Female
+12/19/2023,North,Luis Odonnell,Chevrolet,Tahoe,2019,44135.15,3,Bank Transfer,Hatchback,Electric,Red,3,261,Automatic,Sport,Heathershire,64,Female
+1/4/2025,West,Christopher Scott,Nissan,Rogue,2018,50944.72,4,Bank Transfer,SUV,Hybrid,Black,1,245,Manual,Premium,Jenniferburgh,70,Male
+1/25/2025,South,Jose Romero,Kia,Sportage,2023,60031.75,4,Bank Transfer,Hatchback,Electric,Blue,4.3,489,Automatic,Premium,Williamsburgh,30,Male
+6/6/2023,East,Carla Morton,Honda,CR-V,2023,62639.06,2,Cash,Truck,Electric,Silver,1.5,433,Manual,Base,Port Abigail,67,Male
+11/4/2024,West,Tyler Harris,Honda,Civic,2018,60704.34,2,Cash,SUV,Hybrid,Black,2.8,126,Automatic,Base,Lake Christopherland,58,Female
+5/19/2024,East,Christopher Herrera,Kia,Sorento,2023,59282.31,1,Credit Card,Sedan,Gasoline,Silver,1.1,457,Automatic,Premium,Lake Andrewberg,39,Female
+12/5/2022,North,Karen Rodriguez,Kia,Sorento,2022,36163.35,5,Lease,Hatchback,Hybrid,Red,3.8,318,Manual,Sport,Derekville,39,Male
+4/21/2025,North,Jimmy Oliver,Hyundai,Santa Fe,2018,64169.6,5,Bank Transfer,Hatchback,Gasoline,Black,2.3,135,Automatic,Premium,Lake Mariaborough,60,Female
+8/12/2025,North,Tyler Aguilar,Toyota,Highlander,2022,63480.9,4,Credit Card,Sedan,Hybrid,Silver,2.9,364,Automatic,Premium,Richardville,21,Female
+10/25/2025,East,Ann Andrews,Ford,Mustang,2024,28569.3,3,Cash,Sedan,Diesel,Blue,4.1,474,Automatic,Base,North Cody,60,Female
+12/6/2024,West,Nicholas Andrews,BMW,5 Series,2022,39995.35,3,Credit Card,Truck,Diesel,Red,3.8,352,Automatic,Sport,Sandraton,41,Female
+8/2/2025,East,Sarah Clark,Kia,Sorento,2024,34448.38,2,Cash,Hatchback,Hybrid,Silver,4.5,327,Manual,Base,Scottshire,69,Male
+2/26/2023,North,Jesus Wilson,Ford,Explorer,2019,35476.06,2,Credit Card,SUV,Gasoline,White,2.3,385,Manual,Base,Mooreborough,65,Female
+8/22/2025,East,Tony Walker,Chevrolet,Malibu,2019,43789.97,1,Bank Transfer,Sedan,Hybrid,Black,2.1,241,Manual,Sport,Mcgrathburgh,62,Female
+9/15/2024,East,David Rivera,Honda,CR-V,2023,64971.74,2,Cash,SUV,Diesel,White,4.1,178,Automatic,Base,Martineztown,57,Female
+9/11/2023,North,Emily Church,BMW,X3,2021,29663.59,1,Cash,Sedan,Hybrid,Blue,4.3,146,Manual,Sport,Lake Brandon,34,Female
+2/25/2024,North,David Williamson,Kia,Seltos,2019,60372.33,2,Cash,Hatchback,Electric,Blue,2.5,397,Automatic,Sport,Emilyberg,44,Female
+3/22/2024,East,Danielle Cruz,Kia,Seltos,2024,49676.58,1,Bank Transfer,Hatchback,Diesel,Blue,2.5,221,Manual,Sport,Port Evanhaven,42,Male
+12/12/2023,East,Emily Barnes,Hyundai,Elantra,2020,71060.09,5,Cash,SUV,Hybrid,Gray,3,261,Automatic,Base,Jamieside,56,Female
+11/4/2024,North,Lindsey Greene,Audi,A4,2018,73388.36,2,Bank Transfer,Truck,Electric,Red,1.3,473,Automatic,Base,Evansport,47,Female
+5/13/2024,North,William Adams,Chevrolet,Equinox,2024,39856.99,5,Credit Card,Sedan,Diesel,White,2.4,419,Automatic,Sport,Davisshire,60,Male
+7/19/2024,West,Emily Lowery,Toyota,Highlander,2022,33543.69,2,Bank Transfer,SUV,Hybrid,Silver,4,233,Manual,Premium,Martinezville,31,Male
+9/29/2025,West,Justin Hernandez,Ford,Escape,2022,53921.93,5,Bank Transfer,Hatchback,Diesel,Black,4,111,Automatic,Base,South Sarahtown,42,Female
+11/11/2024,South,John Marshall,Ford,Explorer,2021,58845.25,4,Cash,Truck,Hybrid,Black,1.1,232,Automatic,Base,Hinesville,35,Male
+12/15/2022,West,Stephanie Andrews,Nissan,Murano,2024,48604.66,3,Credit Card,Sedan,Electric,Blue,3.1,499,Manual,Premium,West Alec,28,Male
+9/22/2024,West,Fernando Gross,Nissan,Altima,2020,37591.26,4,Cash,Truck,Electric,Blue,3.9,437,Manual,Sport,Jenniferburgh,45,Male
+12/29/2022,East,Stephanie Long,Ford,Escape,2018,20884,3,Lease,SUV,Gasoline,White,1.7,259,Automatic,Base,Donnabury,65,Male
+6/7/2023,South,Debra Gates,BMW,X5,2022,43956.37,4,Lease,Hatchback,Electric,Blue,3.1,176,Manual,Premium,East Dawnmouth,24,Female
+4/30/2023,North,Rebecca Mcdonald,Mercedes,GLC,2023,23214.81,3,Cash,Truck,Diesel,Red,3.4,162,Manual,Base,Powersfort,62,Male
+3/15/2023,North,Eric Graves,Honda,Pilot,2024,61434.66,3,Bank Transfer,Hatchback,Gasoline,Silver,1.4,384,Automatic,Base,Port Richardfurt,70,Male
+9/12/2024,South,Kelli Marshall,Chevrolet,Malibu,2018,42577.81,1,Credit Card,Truck,Gasoline,Silver,4.7,453,Manual,Premium,Sarahmouth,61,Female
+10/10/2023,North,Angela Fisher,Mercedes,E-Class,2020,37315.65,2,Bank Transfer,Sedan,Gasoline,White,3.3,344,Manual,Base,East Paula,53,Male
+2/24/2025,South,Nicholas Horne,BMW,5 Series,2021,68563.41,4,Credit Card,SUV,Hybrid,Black,1.9,376,Automatic,Premium,Collierview,60,Female
+11/8/2024,West,Mark Malone,Audi,Q7,2019,47453.04,5,Credit Card,SUV,Hybrid,Blue,2.8,468,Manual,Base,West Julie,27,Female
+1/24/2023,South,Julie Snyder,Audi,Q7,2024,77390.76,5,Lease,Sedan,Hybrid,Gray,1.2,341,Manual,Base,Jeremiahbury,60,Male
+9/12/2023,East,Dennis James,Nissan,Rogue,2021,23617.44,4,Lease,Truck,Hybrid,Red,3.2,431,Manual,Premium,Katelynfort,52,Female
+8/24/2025,South,Charlene Henderson,Mercedes,GLC,2022,43899.94,2,Credit Card,Hatchback,Hybrid,Silver,3.8,364,Manual,Base,Jacquelinefort,55,Female
+6/13/2023,North,Nicholas Nguyen,BMW,3 Series,2018,41876.65,5,Lease,SUV,Diesel,Blue,4.6,316,Manual,Sport,West Angela,40,Female
+11/26/2023,North,Barbara Jones,BMW,5 Series,2023,70185.97,4,Lease,SUV,Diesel,Black,2.6,445,Automatic,Premium,Ivanmouth,41,Female
+7/25/2025,East,Jennifer Bartlett,Mercedes,GLC,2021,44201.02,2,Credit Card,Sedan,Hybrid,Black,3.4,228,Automatic,Premium,West Emily,36,Male
+7/29/2025,East,Suzanne Barber,Honda,Civic,2022,66048.97,3,Cash,Truck,Diesel,Red,4.2,353,Automatic,Premium,Salinasborough,58,Female
+2/1/2024,North,Latoya Bryant,Kia,Seltos,2024,31968.33,5,Credit Card,Truck,Gasoline,Red,3.6,135,Automatic,Sport,East Robert,69,Female
+10/6/2025,West,Willie Young,Hyundai,Elantra,2022,29687.35,5,Bank Transfer,Hatchback,Hybrid,Gray,4.1,153,Automatic,Base,Brianside,66,Male
+2/19/2025,East,James Crawford,Toyota,RAV4,2018,65808.37,3,Cash,Hatchback,Electric,Blue,4.3,376,Automatic,Base,Ellisonview,59,Male
+3/18/2023,East,Daniel Rodriguez,Chevrolet,Malibu,2018,51654.49,5,Bank Transfer,Hatchback,Hybrid,Blue,1.9,245,Automatic,Base,Crawfordchester,45,Female
+3/3/2023,East,Krista Townsend,Hyundai,Tucson,2018,64425.74,5,Credit Card,Sedan,Electric,Red,3.7,367,Automatic,Premium,Port Phillip,60,Male
+2/4/2023,North,Shelby Patterson,Honda,Civic,2024,22777.5,4,Cash,Sedan,Diesel,Red,1.3,286,Manual,Base,Oliverport,47,Male
+3/2/2023,East,Joel Miller MD,Kia,Seltos,2021,73912.19,5,Bank Transfer,Sedan,Diesel,White,2,498,Automatic,Premium,East Rodney,29,Female
+3/20/2024,North,Samantha Trevino,Toyota,Camry,2023,63033.24,5,Bank Transfer,Sedan,Electric,Gray,2.4,126,Automatic,Base,North Josephton,67,Male
+4/2/2025,West,Michael Jackson,Nissan,Sentra,2021,25634.45,4,Cash,Hatchback,Gasoline,Blue,3.1,142,Manual,Sport,Gabriellemouth,49,Female
+12/28/2024,East,Mark Smith,Mercedes,E-Class,2023,69308.71,3,Credit Card,Hatchback,Gasoline,Silver,4,137,Automatic,Base,Clarkshire,30,Female
+7/15/2023,East,Scott Keller,BMW,X3,2018,38580.75,2,Bank Transfer,Hatchback,Gasoline,White,3.1,221,Manual,Base,South Joel,60,Male
+8/29/2024,South,Cynthia Smith,Mercedes,C-Class,2022,65598.53,2,Cash,SUV,Electric,Blue,1.5,460,Manual,Premium,East Zacharyland,21,Male
+5/10/2024,East,Jesus Davis,BMW,5 Series,2024,67604.74,5,Credit Card,SUV,Diesel,Red,1.6,312,Automatic,Premium,Owensland,49,Male
+12/31/2023,North,Angel Collins,Chevrolet,Tahoe,2018,34453.47,2,Cash,Hatchback,Diesel,Red,3.9,309,Automatic,Premium,North Lisa,41,Female
+12/22/2022,South,Denise Miller,Honda,CR-V,2021,60986.41,1,Cash,SUV,Hybrid,White,3.6,120,Manual,Premium,South Laurastad,28,Female
+2/25/2024,West,Carolyn Booth,BMW,X5,2018,54197.35,1,Credit Card,SUV,Gasoline,Black,3.2,440,Automatic,Sport,Carterfurt,41,Female
+6/28/2023,East,Kelsey Brown DDS,Honda,Pilot,2023,72865.36,1,Bank Transfer,Sedan,Electric,Black,4.2,122,Automatic,Base,South Heatherview,62,Male
+8/3/2025,East,Ronald Horton,Chevrolet,Impala,2022,67061.56,4,Cash,Truck,Hybrid,Blue,4.5,450,Manual,Sport,Guerrerobury,37,Male
+9/29/2025,West,Kristen Foster,Chevrolet,Equinox,2022,66648.62,5,Credit Card,Hatchback,Hybrid,Gray,4.2,250,Automatic,Premium,Scotttown,54,Male
+6/30/2025,South,Thomas Hernandez,Audi,A4,2024,60677.75,3,Credit Card,Sedan,Electric,Blue,2.4,122,Automatic,Premium,Port Stephanietown,27,Male
+12/29/2023,East,Paul Alexander,Toyota,Highlander,2023,37760.66,1,Credit Card,Hatchback,Electric,White,1.8,440,Manual,Base,North Elizabeth,63,Female
+10/4/2025,North,Lisa Morales,Hyundai,Santa Fe,2022,75908.33,3,Cash,Truck,Hybrid,Red,4.8,371,Manual,Base,Danielchester,37,Male
+11/2/2023,North,Charles Wright,Chevrolet,Equinox,2023,54294.11,4,Credit Card,Truck,Hybrid,Black,2.4,236,Manual,Premium,New Stacey,26,Female
+12/18/2023,South,Johnny Davis,Ford,Explorer,2019,52625.29,3,Bank Transfer,Hatchback,Hybrid,Blue,3.8,462,Manual,Base,Nicholasview,29,Male
+2/4/2023,North,Robin Jones,Hyundai,Sonata,2018,56044.9,4,Bank Transfer,Sedan,Gasoline,Gray,3,107,Manual,Premium,Danaland,63,Female
+2/26/2025,North,David Chandler,Audi,Q7,2020,61061.6,4,Bank Transfer,Truck,Electric,Gray,2.6,169,Automatic,Sport,South Sandratown,46,Female
+4/6/2025,West,Stephanie Kelly,Chevrolet,Malibu,2022,44716.86,3,Cash,Hatchback,Gasoline,White,4.2,204,Manual,Sport,Mclaughlinside,22,Male
+9/28/2023,North,Andrew Erickson,BMW,X5,2018,58210.92,1,Bank Transfer,Truck,Diesel,Gray,2.9,142,Manual,Base,West Amandaberg,30,Female
+9/5/2025,West,Lori Fuller,Mercedes,GLE,2022,66574.6,5,Cash,SUV,Gasoline,Blue,4.4,272,Manual,Premium,North Christinaside,68,Male
+1/2/2025,East,Jessica Davis,Chevrolet,Equinox,2021,21312.61,2,Lease,Sedan,Electric,Blue,4.1,338,Manual,Base,North Diana,61,Female
+7/27/2024,North,Charles Stark,Chevrolet,Malibu,2023,69903.55,3,Lease,Truck,Gasoline,Red,4.4,137,Manual,Base,Port Michaelhaven,33,Female
+1/1/2024,East,Michael Hubbard,Honda,Civic,2020,49169.02,2,Lease,Hatchback,Hybrid,Black,4.6,358,Automatic,Base,North Tiffanystad,31,Male
+8/4/2025,South,Amy Stephenson,Hyundai,Elantra,2022,67038.28,1,Credit Card,SUV,Diesel,Black,1,254,Automatic,Premium,Parkermouth,32,Male
+2/19/2023,South,Matthew Santana,Kia,Seltos,2019,49599.46,5,Bank Transfer,Hatchback,Hybrid,White,2,339,Automatic,Base,Milesfurt,48,Female
+7/15/2025,West,Heather Rojas,Ford,F-150,2018,63276.37,1,Bank Transfer,SUV,Diesel,Gray,1.9,359,Automatic,Base,New Mckenziemouth,47,Male
+11/23/2024,South,Mark Reynolds,Kia,Optima,2021,69322.56,1,Cash,Truck,Gasoline,White,4.8,409,Manual,Base,Suzannefurt,61,Male
+6/18/2023,North,Scott Reed,Kia,Sorento,2019,34529.58,3,Credit Card,Truck,Electric,Black,1.3,152,Manual,Premium,East Ethan,53,Male
+11/4/2022,East,Bryan Mosley,Chevrolet,Equinox,2024,47031.75,2,Lease,SUV,Gasoline,Silver,2.6,245,Automatic,Base,Richardburgh,57,Male
+3/10/2024,West,Louis Barron,Hyundai,Tucson,2021,45486.3,4,Credit Card,Sedan,Hybrid,Blue,4,473,Automatic,Sport,Jessicabury,48,Male
+7/24/2023,North,Erica Taylor,Kia,Sorento,2022,37131.77,2,Bank Transfer,Sedan,Gasoline,White,4,332,Manual,Sport,Deanshire,50,Female
+11/27/2022,East,Mrs. Tammy Bennett,Hyundai,Santa Fe,2020,34478.55,1,Cash,SUV,Gasoline,Red,4.7,449,Manual,Sport,South Cherylland,38,Female
+12/6/2024,West,Charles Curtis,Chevrolet,Tahoe,2022,75160.21,5,Credit Card,SUV,Diesel,Black,1.7,260,Automatic,Sport,Kurtton,31,Male
+10/7/2025,South,Cindy Long,BMW,X3,2019,41125.7,5,Cash,Truck,Electric,Silver,3.8,204,Manual,Sport,Michaelville,20,Female
+12/25/2022,West,Jeremy Smith,Kia,Sorento,2021,62599.12,4,Cash,Hatchback,Electric,Gray,1.8,203,Automatic,Base,Lisafort,57,Male
+7/22/2025,South,Destiny Lowe,Audi,Q7,2021,27834.25,1,Bank Transfer,Sedan,Electric,Silver,2.6,206,Manual,Premium,Mitchellfort,35,Male
+10/3/2025,South,Amy Miller,Hyundai,Elantra,2022,51995.27,4,Bank Transfer,Sedan,Diesel,White,4.7,475,Automatic,Premium,Frederickport,66,Male
+7/4/2024,East,Alicia Buchanan,Chevrolet,Equinox,2019,55670.28,1,Lease,Hatchback,Electric,Red,2,110,Manual,Sport,Glenfurt,58,Female
+2/16/2023,East,Sally Dennis,Hyundai,Sonata,2023,55532.25,1,Credit Card,Truck,Hybrid,Red,1.9,314,Automatic,Sport,West Juanborough,59,Female
+11/30/2023,South,Sharon Shannon,Nissan,Murano,2018,25731.63,5,Lease,Truck,Electric,Red,1.3,244,Automatic,Sport,South Randy,53,Male
+7/30/2025,West,Andrew Sullivan,BMW,3 Series,2018,67151.61,4,Cash,Truck,Diesel,Black,3.2,161,Automatic,Base,Parrishchester,66,Female
+6/25/2024,North,Gregory Robles,Nissan,Rogue,2022,38745.08,3,Lease,Sedan,Diesel,Gray,1.6,298,Manual,Sport,Jacksonchester,49,Female
+1/9/2024,South,David Rose,Hyundai,Sonata,2021,36599.81,4,Bank Transfer,Sedan,Gasoline,Blue,2.8,180,Manual,Base,Amyfort,42,Male
+7/14/2023,South,Melanie Ramirez,Nissan,Rogue,2018,55831.34,1,Bank Transfer,Sedan,Gasoline,Gray,4.5,484,Manual,Sport,Donnaport,70,Female
+2/12/2025,West,Andrea Yang,Nissan,Rogue,2019,54255.76,4,Lease,Hatchback,Gasoline,Black,1.3,391,Manual,Base,Schmidtmouth,22,Female
+3/5/2025,East,Jennifer Thompson,Audi,A4,2019,73916.03,5,Bank Transfer,Sedan,Hybrid,Black,4.5,372,Manual,Premium,South Robertfort,23,Female
+7/19/2024,West,Ryan Higgins,Kia,Sportage,2021,68633.1,2,Lease,Sedan,Electric,Silver,3,466,Manual,Sport,Cardenasmouth,58,Male
+6/3/2024,East,Stephanie Perez,BMW,5 Series,2021,29626.56,4,Bank Transfer,Truck,Electric,Gray,1.4,129,Automatic,Sport,Port Toddside,68,Female
+10/25/2024,West,Jennifer Walker,Mercedes,GLC,2023,31937.53,2,Lease,Truck,Electric,Red,2.2,249,Automatic,Base,West Michaelport,32,Female
+3/3/2025,West,Patricia Beard,Hyundai,Tucson,2021,47093.08,1,Cash,Truck,Gasoline,Red,1.2,254,Manual,Premium,Port Charles,43,Male
+4/29/2025,East,Charles Nelson,Toyota,Highlander,2021,35135.26,4,Cash,Hatchback,Gasoline,White,1.6,110,Manual,Premium,Sydneyport,38,Female
+5/12/2023,North,Clayton Williams DDS,Audi,Q5,2024,64179.9,1,Lease,Truck,Hybrid,Red,2.9,146,Automatic,Sport,Hartbury,46,Female
+11/11/2022,North,Dana Dixon,Mercedes,GLE,2023,36946.93,3,Lease,Sedan,Diesel,Blue,3.6,347,Automatic,Base,Lake Kristen,41,Female
+3/3/2024,South,Justin Howell,Ford,Mustang,2018,57777.53,1,Bank Transfer,Sedan,Electric,Black,4.5,461,Manual,Sport,North Billyville,60,Male
+7/26/2025,East,Dawn Decker,Kia,Optima,2020,72760.05,2,Credit Card,SUV,Electric,Blue,1.1,485,Automatic,Sport,Carlosstad,44,Male
+11/11/2024,West,Kimberly Ramirez,Honda,Civic,2018,68484.62,2,Bank Transfer,SUV,Hybrid,Black,1.9,287,Manual,Base,Robertside,23,Male
+10/13/2024,North,Erin Campbell,Kia,Sportage,2018,73026.19,5,Cash,SUV,Hybrid,Black,3.5,252,Automatic,Premium,Lake Trevor,29,Male
+7/2/2024,East,Michael Dawson,Hyundai,Santa Fe,2020,76366.04,5,Bank Transfer,Truck,Gasoline,Red,3.2,403,Automatic,Sport,Escobarmouth,60,Male
+3/27/2023,West,Latasha Collins,Audi,Q7,2018,24460.72,1,Credit Card,Truck,Hybrid,Red,2.3,449,Manual,Base,Hernandezchester,46,Male
+9/15/2023,West,Michelle Franklin,Honda,Civic,2021,48236.48,3,Credit Card,SUV,Diesel,Black,2.9,401,Automatic,Base,Robbinsborough,29,Male
+12/16/2024,North,Charlotte Thomas,Hyundai,Tucson,2022,24098.51,2,Bank Transfer,Sedan,Hybrid,White,1.3,439,Manual,Premium,Justinbury,38,Female
+4/29/2023,North,Donald Wise,Chevrolet,Malibu,2018,63253.06,5,Cash,Sedan,Hybrid,Gray,1.9,277,Automatic,Premium,Zacharyfort,44,Male
+7/5/2024,North,Cassandra Brown,Honda,Civic,2019,67009.64,5,Credit Card,Sedan,Gasoline,Black,1.3,124,Automatic,Base,Benjaminstad,61,Female
+11/28/2024,South,Virginia Dawson,BMW,X3,2019,66975.25,3,Lease,SUV,Electric,White,4.6,111,Automatic,Base,South Matthew,28,Female
+3/19/2023,South,Nicholas Rodriguez,Hyundai,Sonata,2022,61238.86,4,Bank Transfer,Hatchback,Diesel,Blue,1.8,300,Manual,Sport,Johnchester,50,Male
+6/23/2023,South,Kelly Ward,Audi,A3,2018,68756.93,5,Lease,SUV,Gasoline,Silver,2.3,322,Automatic,Premium,Melissashire,41,Male
+10/16/2025,West,Johnny Weeks,Ford,F-150,2022,76765.91,3,Credit Card,SUV,Diesel,Red,2.6,138,Automatic,Base,East Christina,69,Male
+5/25/2024,East,Jorge Miller,Ford,F-150,2020,76714.23,2,Lease,Sedan,Hybrid,White,4.5,278,Manual,Premium,Lake Brittneyborough,50,Male
+2/28/2023,South,Linda Martin,Chevrolet,Tahoe,2022,76991.81,4,Cash,Hatchback,Diesel,Gray,3.4,255,Manual,Sport,Kingchester,58,Male
+12/2/2022,North,Robert Parks,Hyundai,Sonata,2021,79883.09,5,Credit Card,Hatchback,Diesel,Gray,3.2,492,Manual,Premium,Kerrton,57,Female
+5/16/2024,East,Samantha Mcfarland,Mercedes,C-Class,2023,77235.85,2,Credit Card,Sedan,Gasoline,White,3.3,296,Automatic,Premium,Maryshire,44,Female
+3/28/2023,West,Christy Perez,Honda,Accord,2018,36521.97,4,Bank Transfer,SUV,Hybrid,Blue,1.2,460,Manual,Sport,Brookefort,37,Male
+6/28/2024,North,Angela Foley,Kia,Seltos,2019,31911.32,3,Lease,Sedan,Electric,Blue,3.6,353,Manual,Base,Port Anthony,50,Female
+5/2/2025,North,James Greer,Hyundai,Santa Fe,2018,73066.02,5,Lease,Hatchback,Electric,Gray,2.4,265,Automatic,Sport,North Karenhaven,30,Male
+5/28/2024,North,Kim Brewer,Chevrolet,Equinox,2021,54188.58,2,Cash,Sedan,Electric,Black,2,318,Manual,Premium,Stephaniechester,66,Male
+6/17/2023,East,Laura Cobb,BMW,3 Series,2023,22337.77,1,Cash,Truck,Electric,Silver,4,287,Automatic,Base,Lewisview,36,Female
+9/7/2025,North,John Gentry,Audi,A4,2021,68216.54,2,Credit Card,SUV,Hybrid,Red,2.1,432,Manual,Base,Port Samanthaport,31,Male
+5/9/2024,West,Alexandra Hoover,Kia,Sorento,2023,35477.57,3,Lease,Truck,Gasoline,Silver,3.7,307,Manual,Premium,Lake Stephen,51,Female
+5/6/2025,East,Zachary Cox,Kia,Optima,2021,31198.06,1,Cash,Truck,Hybrid,Silver,4.9,283,Manual,Premium,Lake Kyle,31,Female
+1/10/2023,South,Dr. Jessica Lopez,Mercedes,C-Class,2019,64381.56,1,Credit Card,Sedan,Gasoline,Red,1.4,364,Automatic,Base,Bentonchester,37,Male
+12/29/2022,East,Randall Buckley,Nissan,Murano,2018,49158.51,1,Bank Transfer,Hatchback,Diesel,White,1.7,438,Manual,Premium,West Scottmouth,34,Female
+1/22/2024,West,Mark Brown,Mercedes,GLC,2018,43290.21,1,Cash,Truck,Hybrid,Silver,1.6,263,Manual,Sport,Bruceborough,42,Female
+1/17/2023,South,Anna Gutierrez,Mercedes,GLE,2022,20075.56,1,Bank Transfer,Truck,Hybrid,Silver,4.2,455,Automatic,Base,Whitefurt,69,Female
+6/3/2025,West,Elizabeth Johnson,Ford,Explorer,2019,47260.35,5,Cash,Sedan,Gasoline,White,2,258,Automatic,Base,West Joybury,56,Male
+8/30/2024,South,Toni Diaz,Audi,Q5,2023,53367.97,2,Cash,Hatchback,Gasoline,Blue,3.9,274,Automatic,Base,Andrewberg,33,Female
+8/2/2024,South,Brandon Maynard,Honda,CR-V,2020,24648.24,4,Bank Transfer,SUV,Electric,Silver,4.4,418,Automatic,Premium,West Justin,33,Female
+1/5/2025,East,Nicole Perry,Honda,Accord,2024,26066.69,3,Bank Transfer,Truck,Hybrid,Black,2,270,Automatic,Base,North Eric,44,Male
+10/31/2023,South,Christopher Flores,BMW,3 Series,2022,70381.15,1,Bank Transfer,Truck,Gasoline,Blue,2.6,297,Manual,Base,Taylorview,51,Female
+5/12/2024,South,Justin Horton,Mercedes,GLC,2024,23647.42,5,Credit Card,SUV,Diesel,White,1.9,340,Manual,Sport,South Michellemouth,37,Male
+10/28/2024,North,David Hodges,Honda,CR-V,2022,42163.64,4,Bank Transfer,Sedan,Hybrid,Gray,3.3,431,Automatic,Premium,Port Johnny,37,Female
+5/9/2023,North,Craig Bell,Ford,F-150,2018,75378.6,3,Bank Transfer,SUV,Gasoline,Gray,3,244,Automatic,Premium,Jacksonborough,34,Female
+6/18/2025,North,Elizabeth Jones,Chevrolet,Tahoe,2024,21155.89,2,Credit Card,Sedan,Electric,Red,4.1,207,Manual,Base,Weaverborough,26,Female
+11/23/2024,West,Calvin Walker,Ford,F-150,2021,64385.8,3,Lease,Sedan,Hybrid,Silver,2.8,107,Automatic,Sport,South Robin,59,Female
+7/28/2023,East,Martha Lawson,Chevrolet,Tahoe,2021,36542.85,5,Bank Transfer,SUV,Gasoline,Gray,2,132,Automatic,Sport,North Jillton,50,Female
+6/14/2025,South,Tara Shaw,Ford,Mustang,2022,69730.82,2,Bank Transfer,Truck,Electric,Gray,3.7,280,Manual,Premium,East Brianna,32,Female
+9/11/2025,South,Jeffrey Ponce,Mercedes,GLC,2023,26338.16,5,Lease,Sedan,Gasoline,Red,4.4,493,Automatic,Base,Karenview,63,Female
+8/19/2025,North,Victor Johnson,Mercedes,E-Class,2018,28383.78,5,Cash,Truck,Electric,Gray,3.3,499,Manual,Premium,East Michael,21,Male
+12/1/2024,South,Aaron Garcia,Hyundai,Elantra,2020,61417.6,1,Bank Transfer,Hatchback,Electric,Black,4.1,431,Automatic,Base,Gordonfurt,36,Male
+12/30/2022,East,Timothy Wilcox,Audi,A4,2021,50677.81,5,Credit Card,Hatchback,Gasoline,White,1.1,389,Manual,Sport,West Tyler,28,Male
+6/11/2023,North,Clinton Ross,Honda,Civic,2020,47034.98,4,Credit Card,SUV,Diesel,Red,1,428,Manual,Sport,Robinsonside,60,Male
+5/12/2023,West,Kara Carter,Kia,Sportage,2023,59618.21,5,Cash,SUV,Gasoline,White,4.2,204,Automatic,Premium,Port Robertland,56,Female
+2/8/2024,West,Andrew Bauer,Nissan,Murano,2018,38257.77,1,Bank Transfer,SUV,Electric,Silver,4.3,318,Automatic,Premium,Leachland,48,Male
+6/26/2025,North,Jason Carter,Chevrolet,Impala,2021,70157.94,1,Lease,Hatchback,Diesel,White,3.2,239,Automatic,Sport,New John,42,Male
+4/21/2024,East,Samantha Vaughan,Mercedes,GLE,2023,72869.42,3,Cash,Sedan,Diesel,Black,2,161,Automatic,Premium,Rayside,37,Male
+6/1/2024,West,Eric Torres,BMW,X3,2019,28214.94,4,Cash,SUV,Hybrid,Gray,2.4,343,Manual,Premium,North Kim,22,Male
+10/31/2023,East,Ian Moore,Mercedes,GLC,2018,78966.83,3,Bank Transfer,Truck,Gasoline,Blue,2.5,153,Manual,Premium,Lake Jeffrey,36,Male
+10/14/2023,North,Tanya Miller,Chevrolet,Malibu,2022,53296.6,3,Bank Transfer,Truck,Electric,Red,2.8,138,Automatic,Sport,West Christophermouth,27,Male
+12/24/2024,North,Theodore Neal,Honda,CR-V,2024,31509.94,4,Lease,SUV,Diesel,Blue,1.6,410,Automatic,Premium,Katiestad,41,Female
+12/2/2022,West,Amanda Sharp,Kia,Optima,2022,59722.92,2,Credit Card,Truck,Hybrid,Blue,1,443,Manual,Sport,East Steve,58,Male
+10/1/2025,North,Sarah Cline,Kia,Seltos,2021,37974.53,3,Lease,Hatchback,Diesel,Gray,1.4,306,Automatic,Base,Howardburgh,69,Male
+1/6/2023,South,Kristin Carter,Kia,Sportage,2018,62555.04,3,Bank Transfer,Sedan,Diesel,Blue,2.8,381,Automatic,Sport,West Kathy,22,Male
+5/10/2025,East,Emma Taylor,Honda,CR-V,2024,31425.72,3,Bank Transfer,SUV,Electric,White,3.9,439,Automatic,Sport,Michaelhaven,50,Female
+11/30/2024,North,Kiara Parker,Nissan,Altima,2023,74759.23,3,Credit Card,Truck,Diesel,White,1.5,107,Manual,Sport,West Colton,64,Female
+8/9/2025,North,Marie Flynn,Nissan,Sentra,2021,43983.42,2,Bank Transfer,SUV,Hybrid,Silver,1.4,386,Automatic,Premium,New Raventon,31,Male
+8/20/2023,West,Brett Brooks,Ford,Mustang,2022,49926.07,2,Lease,Sedan,Diesel,Silver,3.3,176,Automatic,Premium,Andrewsbury,67,Female
+11/22/2022,East,Julia Williams,Ford,F-150,2022,37991.93,5,Lease,Truck,Gasoline,Silver,4.3,112,Manual,Sport,Tamaramouth,67,Male
+9/25/2025,North,Nancy Parks,Hyundai,Elantra,2023,41060.1,3,Cash,SUV,Gasoline,Black,4.3,381,Automatic,Premium,Quinnburgh,57,Female
+3/11/2023,North,Jacob Cox,BMW,3 Series,2023,72667.01,3,Cash,Sedan,Hybrid,Blue,1.8,219,Manual,Base,Ortizhaven,55,Male
+2/26/2024,West,Brian Cox,Mercedes,C-Class,2018,34385.4,1,Lease,Truck,Diesel,Red,3.1,288,Automatic,Sport,West Erica,51,Female
+12/25/2023,East,Brian Lee,Honda,CR-V,2019,65062.91,2,Lease,Hatchback,Electric,Red,1.3,392,Automatic,Sport,West Alexanderview,22,Female
+3/10/2024,South,Nicole Wilson,Mercedes,E-Class,2023,75273.39,4,Bank Transfer,Sedan,Electric,Black,4.6,128,Manual,Premium,North Lonnieton,61,Male
+12/30/2023,West,Robert Good,Ford,Mustang,2023,55074.24,3,Lease,Hatchback,Electric,Black,4,331,Manual,Premium,Lake Brycemouth,70,Male
+11/4/2022,East,Patrick Wolf,Hyundai,Elantra,2024,21064.78,3,Lease,Hatchback,Electric,Red,3,362,Manual,Base,Jamesview,68,Male
+10/19/2023,West,Holly Cook,Toyota,Camry,2020,79284.13,3,Credit Card,Truck,Electric,Red,4.4,401,Manual,Base,New Scott,48,Female
+7/24/2025,North,Jeff Williams,Kia,Sorento,2019,74446.55,4,Cash,SUV,Hybrid,Blue,1.4,406,Manual,Premium,North Shawn,21,Male
+3/5/2023,South,Katie Mclaughlin,Mercedes,E-Class,2023,60100.27,4,Cash,Hatchback,Electric,Silver,1.7,172,Automatic,Base,Christopherview,29,Male
+5/10/2023,North,Ronald Hart,Nissan,Rogue,2018,68544.76,2,Cash,Sedan,Diesel,Blue,1.9,417,Manual,Sport,Davisland,54,Male
+12/13/2023,East,Kerry Henry,BMW,5 Series,2018,42361.06,2,Credit Card,Sedan,Hybrid,Black,4.3,272,Manual,Sport,North Williamborough,43,Female
+11/17/2024,East,Kathleen Sparks,Hyundai,Santa Fe,2023,55676.62,3,Bank Transfer,Hatchback,Hybrid,Blue,1.2,214,Manual,Premium,Lake Evelynhaven,43,Male
+5/5/2024,West,Erika Montoya,Chevrolet,Malibu,2020,27636.25,5,Cash,SUV,Diesel,Silver,1.9,441,Manual,Sport,South Sarah,65,Female
+3/21/2025,West,Heather Rosales,Mercedes,E-Class,2018,72857.2,5,Credit Card,Truck,Diesel,Red,2.7,309,Automatic,Premium,Leeville,57,Male
+2/20/2025,East,John Martinez,Nissan,Sentra,2019,33993.82,4,Credit Card,Truck,Diesel,Silver,4.9,290,Automatic,Premium,Derricktown,33,Male
+7/20/2024,North,Joel Garcia,Audi,Q7,2022,25635.71,2,Credit Card,SUV,Diesel,Blue,2.8,250,Manual,Base,Tracibury,41,Female
+11/26/2024,South,Jason Dominguez,Kia,Sorento,2023,37284.59,4,Lease,SUV,Gasoline,Silver,1.9,214,Automatic,Sport,North Andrew,49,Female
+9/8/2024,South,Travis Hess,Hyundai,Elantra,2021,57614.05,5,Lease,Sedan,Diesel,Blue,4.4,150,Automatic,Base,Williamsonton,67,Male
+11/10/2022,East,Craig Mitchell,Chevrolet,Equinox,2019,60004.81,4,Cash,Sedan,Diesel,Red,1.3,127,Automatic,Base,Port Bryan,36,Male
+11/13/2024,West,David Burton,Honda,Pilot,2021,59189.15,3,Bank Transfer,Sedan,Electric,Gray,1.5,255,Manual,Premium,East Susanburgh,37,Female
+2/3/2023,North,Gerald Webb,Nissan,Rogue,2018,52457.83,2,Credit Card,SUV,Hybrid,Blue,4.9,265,Manual,Premium,North Justin,30,Female
+1/11/2025,North,Paul Taylor,Chevrolet,Malibu,2023,65226.23,2,Lease,Hatchback,Electric,Red,3.4,148,Automatic,Base,Robinport,23,Male
+6/20/2023,West,Kevin Jones,Mercedes,GLE,2019,31529.69,5,Credit Card,Hatchback,Diesel,Blue,2.4,429,Automatic,Sport,South Amy,58,Female
+10/11/2025,East,Randy Wall,Honda,Civic,2021,57345.83,1,Lease,Sedan,Electric,Black,3.5,257,Automatic,Sport,Sydneyshire,53,Male
+10/9/2024,North,Amanda Newman,Ford,Escape,2023,28821.36,3,Cash,SUV,Diesel,Silver,4.2,192,Manual,Sport,Nealland,40,Female
+9/28/2025,West,Nathan Clark,Chevrolet,Tahoe,2023,34112.43,4,Credit Card,Sedan,Electric,Gray,3.2,351,Automatic,Premium,New Philipchester,27,Female
+3/8/2023,West,Julie Thomas,Audi,A3,2024,54646.33,4,Credit Card,Hatchback,Diesel,Blue,3,466,Manual,Premium,Gillburgh,30,Male
+6/11/2024,North,Dr. Mary Boyer DDS,Chevrolet,Malibu,2022,76118.33,4,Lease,Sedan,Diesel,Gray,1.6,285,Manual,Sport,Jasonberg,55,Female
+3/8/2025,North,Stephen Hayes,Chevrolet,Impala,2024,69280.54,4,Cash,SUV,Diesel,Silver,4.8,115,Automatic,Premium,Johnhaven,43,Female
+9/17/2024,North,Pam Hernandez,Nissan,Rogue,2020,73117.5,4,Credit Card,Hatchback,Electric,Blue,3.3,239,Automatic,Sport,Lake Tracy,42,Female
+10/31/2024,East,Mr. Robert Berry,Chevrolet,Equinox,2019,75415.03,3,Bank Transfer,Truck,Electric,Red,2,350,Automatic,Base,East Amyport,63,Female
+6/20/2025,North,Justin Goodwin,Hyundai,Sonata,2020,25865.15,3,Lease,Hatchback,Diesel,Black,1.2,110,Manual,Base,North Joseph,63,Female
+1/16/2023,North,Robert Holmes,Nissan,Murano,2018,22908.32,4,Lease,SUV,Gasoline,White,2.9,231,Automatic,Sport,Murphyshire,62,Female
+5/27/2024,North,Jimmy Carson,Honda,Pilot,2018,32320.61,2,Lease,Sedan,Diesel,Black,4.8,392,Automatic,Premium,Michaelport,23,Male
+12/6/2024,West,Brandon Oneill,Audi,A4,2019,56369.71,2,Lease,Hatchback,Electric,Gray,2,228,Automatic,Premium,Lake Aaronmouth,40,Male
+2/22/2024,North,Dylan Banks,Hyundai,Elantra,2021,22373.11,1,Credit Card,Truck,Hybrid,Red,1.4,358,Automatic,Base,Garybury,40,Female
+3/15/2025,South,Michelle Reynolds,Ford,Escape,2023,29142.38,1,Bank Transfer,SUV,Hybrid,Gray,2.2,378,Automatic,Premium,North Patrickview,21,Male
+9/26/2024,West,Margaret Sanchez,Nissan,Rogue,2023,79384.91,5,Credit Card,SUV,Diesel,Silver,1.5,351,Automatic,Premium,New Brianport,59,Male
+7/3/2023,East,Eric Richardson,Chevrolet,Tahoe,2020,30791.41,3,Credit Card,Sedan,Gasoline,White,1.2,221,Manual,Base,New Thomas,28,Male
+8/30/2023,North,Lisa Bentley,Toyota,Corolla,2018,51957.8,4,Lease,Hatchback,Gasoline,Blue,4.7,486,Manual,Base,South Kaitlin,40,Male
+7/12/2023,South,Kerri Stafford,Toyota,Highlander,2024,61198.99,4,Cash,SUV,Hybrid,Blue,2.3,469,Automatic,Base,North Julieville,44,Male
+3/29/2023,South,Donald Taylor,Toyota,Corolla,2021,63991.23,2,Credit Card,Sedan,Diesel,White,4.4,112,Automatic,Base,Jeremychester,34,Female
+10/6/2023,South,Janet Lozano,Ford,Mustang,2019,61259.2,2,Cash,Hatchback,Electric,Silver,2.7,247,Manual,Base,Smithton,46,Male
+6/7/2025,East,Thomas Douglas,Hyundai,Tucson,2021,54064.02,4,Lease,Sedan,Diesel,Gray,2,482,Manual,Base,New Matthewport,40,Female
+8/1/2023,West,Richard Wright,Audi,Q7,2019,43055.43,1,Credit Card,Sedan,Gasoline,White,4,443,Automatic,Base,Nancyport,57,Male
+4/13/2023,East,Andrew Chapman,Chevrolet,Impala,2018,58284.54,5,Bank Transfer,Truck,Gasoline,Silver,3.3,229,Automatic,Premium,Port Johnfort,29,Male
+10/11/2023,East,Marie Thompson,Audi,A3,2020,71919.57,2,Bank Transfer,Hatchback,Hybrid,Red,4.6,459,Manual,Premium,Susantown,38,Female
+12/17/2024,West,Erin Butler,Audi,A4,2021,71335.31,1,Cash,Sedan,Gasoline,Red,4.3,187,Automatic,Base,North Jenniferbury,49,Female
+5/30/2024,North,Adam Moore,Chevrolet,Equinox,2021,23876.91,2,Bank Transfer,Truck,Gasoline,Silver,2.3,199,Automatic,Base,North Katrinaton,24,Female
+12/17/2024,West,Amy White,BMW,3 Series,2023,38064.9,4,Credit Card,SUV,Electric,White,3.6,197,Manual,Sport,North Robert,52,Female
+1/18/2023,North,Brian Johnson,Kia,Seltos,2022,24593.62,3,Bank Transfer,Truck,Gasoline,Red,1.5,169,Automatic,Sport,Samuelview,30,Male
+9/12/2024,South,Ms. Melanie Smith,Ford,Mustang,2021,33296.62,3,Credit Card,Sedan,Electric,White,3.1,402,Automatic,Sport,Harrisonburgh,54,Female
+8/7/2023,South,Kayla Salinas,Ford,Escape,2018,55384.53,1,Cash,Truck,Electric,Silver,2.2,431,Automatic,Premium,Port Jamesshire,20,Male
+10/22/2023,East,Alicia Charles,Mercedes,C-Class,2024,42708.18,3,Bank Transfer,SUV,Gasoline,Silver,3.1,311,Manual,Sport,South Julia,39,Male
+7/12/2025,East,Nicholas Cohen,Ford,Escape,2021,61376.12,1,Credit Card,SUV,Gasoline,Blue,4.4,388,Manual,Premium,New Jesseside,64,Female
+2/21/2023,South,Jorge Scott,Honda,Pilot,2021,24891.51,1,Credit Card,Hatchback,Hybrid,Black,1.1,190,Manual,Sport,Castilloshire,42,Male
+8/24/2023,West,Thomas Anderson,Toyota,Highlander,2018,62333.97,1,Cash,Hatchback,Diesel,Gray,3.6,386,Manual,Base,Port Mary,68,Female
+5/18/2025,West,Shannon Bush,Chevrolet,Impala,2019,55425.61,4,Cash,Truck,Diesel,Blue,2.2,366,Automatic,Premium,Cooperport,54,Female
+5/8/2023,North,Cody Dunn,Audi,Q5,2018,71508.34,1,Bank Transfer,Truck,Hybrid,Silver,5,425,Manual,Base,North Kelseyport,69,Female
+6/25/2024,South,Mrs. Tracy Ramirez,Toyota,Camry,2021,74871.69,4,Credit Card,Hatchback,Diesel,Blue,2.5,464,Manual,Base,Lake Michael,21,Female
+5/3/2025,South,Joel Fischer,Honda,Pilot,2022,20214.17,2,Lease,Hatchback,Diesel,Gray,1.6,384,Manual,Premium,South Michellefort,56,Male
+7/3/2024,North,Tiffany Reid,Chevrolet,Malibu,2021,41716.17,1,Credit Card,SUV,Diesel,Gray,1.7,235,Automatic,Sport,Theresamouth,52,Female
+10/17/2023,West,Jared Ferguson,BMW,5 Series,2020,77770.87,5,Lease,Sedan,Gasoline,Black,1.1,480,Automatic,Sport,Jasonton,28,Female
+1/4/2023,South,Chelsea Rhodes,Kia,Sportage,2019,41019.16,3,Lease,SUV,Hybrid,Red,2.7,395,Manual,Premium,Port Joseph,44,Male
+6/14/2023,North,Veronica Freeman,BMW,X3,2024,75753.15,5,Credit Card,Truck,Electric,Red,1.4,105,Automatic,Base,East Alexaville,35,Female
+2/2/2024,North,Brett Price,Nissan,Altima,2018,78384.6,3,Bank Transfer,SUV,Electric,White,2.7,300,Automatic,Premium,Grosston,68,Male
+6/19/2023,West,Jennifer Randall,Honda,CR-V,2018,59701.74,1,Credit Card,Truck,Diesel,Silver,3.3,217,Automatic,Base,Gillespieland,48,Female
+10/29/2024,East,Leslie Huynh,BMW,5 Series,2019,72609.36,3,Cash,Truck,Hybrid,White,2,193,Automatic,Premium,Aaronfurt,28,Male
+2/4/2025,South,Jennifer George,Toyota,Corolla,2020,20634.36,1,Bank Transfer,Truck,Diesel,Black,2.1,496,Manual,Premium,East Benjamin,59,Female
+8/10/2025,East,Jessica Hernandez,BMW,X3,2022,43416.57,5,Cash,SUV,Diesel,White,3.5,381,Automatic,Base,East Randyburgh,20,Male
+6/8/2025,West,Kristi Vargas,Mercedes,GLE,2019,59271.37,4,Cash,Sedan,Diesel,Silver,3.3,209,Automatic,Premium,Griffinchester,46,Female
+11/7/2024,East,Brandon Gomez,Ford,F-150,2019,71735.05,4,Cash,Truck,Electric,Black,3.4,380,Automatic,Premium,New Robert,53,Male
+1/21/2024,North,Garrett Miller,Audi,A3,2021,44592.32,2,Lease,Hatchback,Diesel,Gray,4.3,488,Manual,Base,West Michele,46,Male
+8/29/2023,West,Tyrone Navarro,Mercedes,C-Class,2024,44292.48,1,Credit Card,Truck,Diesel,Black,1.4,476,Automatic,Base,Williamland,52,Male
+10/30/2024,North,Jessica Johnson,Mercedes,E-Class,2018,70320.42,3,Credit Card,Truck,Hybrid,Gray,2.4,333,Manual,Premium,Laurenhaven,45,Male
+12/28/2022,West,Pamela Harrell,BMW,X5,2018,49510.98,5,Bank Transfer,Hatchback,Diesel,White,3.6,170,Automatic,Base,South Matthew,37,Female
+12/15/2024,South,Madison Sanchez,Honda,CR-V,2023,28249.77,5,Lease,Truck,Gasoline,Silver,2.4,223,Automatic,Premium,Washingtonstad,35,Male
+8/20/2024,North,Michael Parks,Toyota,Highlander,2021,55988.56,3,Cash,Hatchback,Electric,Blue,1.7,277,Manual,Base,Davisstad,23,Female
+7/13/2023,South,Dustin Richards,BMW,X5,2021,58484.84,3,Lease,Hatchback,Hybrid,Gray,4.8,371,Automatic,Base,Montgomeryside,67,Female
+11/29/2024,West,Debbie Campbell,Toyota,Camry,2021,20506.18,1,Bank Transfer,SUV,Gasoline,Gray,3.3,306,Automatic,Premium,South Thomas,66,Male
+11/21/2022,South,Norma Oconnell,Kia,Seltos,2018,68037.98,1,Bank Transfer,SUV,Electric,Silver,3.1,370,Manual,Sport,Jasonberg,61,Female
+9/15/2024,South,Kristine Luna,Chevrolet,Equinox,2021,55040.05,1,Bank Transfer,Sedan,Hybrid,Silver,4.6,467,Automatic,Sport,West Cheryl,23,Female
+11/10/2023,West,Shawn Evans,Ford,F-150,2019,37930.5,3,Cash,Sedan,Electric,Black,1.4,458,Automatic,Base,Jadeside,55,Male
+1/9/2025,West,Karen Lewis,Nissan,Rogue,2020,41802.51,3,Credit Card,Hatchback,Gasoline,Silver,2.8,271,Automatic,Premium,West Lisa,46,Female
+2/19/2023,East,Dawn Buck,Toyota,Camry,2018,57497.71,3,Cash,SUV,Gasoline,Silver,4.2,445,Automatic,Sport,Albertside,34,Female
+11/18/2024,North,Rebecca Cline MD,Nissan,Rogue,2023,35565.57,2,Credit Card,Truck,Hybrid,Gray,2.4,197,Automatic,Sport,Higginsburgh,45,Male
+4/10/2023,South,Jeremy Murphy,Hyundai,Elantra,2019,36921.19,5,Lease,Hatchback,Hybrid,Silver,1.6,301,Automatic,Premium,West Leslie,51,Male
+7/17/2024,East,Samantha Haynes,Chevrolet,Tahoe,2021,43266,4,Cash,Hatchback,Diesel,Black,1.4,284,Manual,Base,Veronicafurt,47,Female
+11/27/2022,South,Megan Nielsen,Toyota,Camry,2021,40526.37,2,Lease,Sedan,Hybrid,Red,3.7,250,Automatic,Sport,New Sarah,67,Male
+2/1/2023,South,Juan Singh,Toyota,Camry,2022,30983.56,5,Bank Transfer,SUV,Gasoline,Red,3.7,320,Manual,Base,Lake Christopherburgh,45,Male
+10/7/2024,North,Kevin Taylor,Mercedes,C-Class,2020,58858.8,5,Cash,Sedan,Electric,White,1.3,358,Manual,Sport,Andersonside,44,Female
+12/11/2024,West,Ryan Graves,Nissan,Altima,2022,37880.4,5,Credit Card,SUV,Electric,Gray,4.7,403,Manual,Base,Johnfort,22,Male
+12/2/2022,South,Dawn Stevens,Chevrolet,Impala,2021,62559.3,2,Credit Card,Hatchback,Electric,White,4.5,308,Manual,Sport,South Mark,46,Female
+12/28/2023,North,Eric Cox,BMW,3 Series,2020,33947.63,4,Credit Card,Hatchback,Diesel,Red,4.8,108,Automatic,Sport,Floresville,69,Female
+7/17/2023,West,Daniel Adams,Chevrolet,Impala,2023,42299.04,5,Cash,SUV,Diesel,Blue,3.8,393,Automatic,Base,New Gerald,53,Male
+11/11/2022,East,Kara Green,Honda,Accord,2020,53474.24,5,Bank Transfer,Hatchback,Electric,Black,1.7,270,Automatic,Sport,Lake Johnberg,50,Male
+3/29/2023,East,Shannon Koch,Audi,A3,2018,44734.33,4,Lease,Sedan,Diesel,Red,2.6,390,Manual,Base,New Tracy,65,Male
+8/9/2025,South,Mark Rangel,Honda,Civic,2019,76632.69,5,Cash,Hatchback,Gasoline,Black,2.1,300,Manual,Base,Jacobburgh,48,Male
+3/14/2025,South,Lisa Francis,BMW,X5,2018,30978.29,1,Bank Transfer,Truck,Electric,Red,1,243,Automatic,Sport,Lake Destiny,21,Male
+1/3/2023,West,Zachary Collins,BMW,X3,2018,70859.1,1,Lease,Hatchback,Diesel,Blue,1.1,157,Manual,Premium,West Kevinberg,49,Female
+6/30/2025,West,Christina Ellis,Hyundai,Sonata,2020,74144.09,3,Credit Card,Truck,Hybrid,White,4.8,281,Automatic,Sport,Lake Maryview,60,Female
+3/26/2024,West,Jennifer Rivera,Mercedes,GLE,2019,45279.61,3,Bank Transfer,Sedan,Gasoline,Black,3.2,237,Automatic,Base,Harringtonport,23,Female
+5/17/2024,West,Hannah Johnson,Toyota,Corolla,2021,47708.33,1,Cash,SUV,Gasoline,Blue,2,121,Manual,Base,Port Lance,37,Male
+6/26/2023,West,Brian Lewis,Mercedes,GLC,2023,67397.29,2,Credit Card,Hatchback,Gasoline,Blue,3.5,252,Automatic,Premium,New Dawnmouth,45,Male
+12/21/2023,West,Kenneth Chase,Chevrolet,Tahoe,2019,34256.69,5,Cash,Truck,Electric,White,1.4,235,Automatic,Premium,Jacksonport,20,Male
+3/25/2025,East,Gina Morton,Audi,Q7,2020,39707.88,2,Cash,Sedan,Diesel,Black,2.1,404,Automatic,Base,Rogersview,46,Male
+10/24/2024,East,Chad Andrews,Chevrolet,Impala,2023,74763.88,5,Credit Card,Sedan,Hybrid,Blue,3.8,362,Manual,Premium,Johntown,44,Female
+5/30/2023,South,Michael Daniels,Ford,Explorer,2019,47465.32,2,Credit Card,Truck,Diesel,Silver,3.4,255,Automatic,Premium,Esparzahaven,52,Male
+7/27/2025,West,Andrew Hooper,BMW,X3,2020,42572.62,1,Bank Transfer,Hatchback,Diesel,Silver,2.1,434,Automatic,Premium,Leachbury,30,Male
+1/19/2023,North,Mallory Hamilton,Mercedes,GLE,2020,67971.89,5,Bank Transfer,SUV,Electric,Blue,2.4,262,Automatic,Premium,West Roberttown,50,Male
+10/21/2024,East,Michelle Reed,Chevrolet,Impala,2018,58280.92,1,Lease,Truck,Electric,Blue,3.8,414,Manual,Sport,South Calebshire,33,Female
+8/10/2023,South,Caitlin Burke,Nissan,Sentra,2023,54627.1,1,Cash,Truck,Electric,Red,2.9,460,Automatic,Premium,Christinaport,42,Male
+12/28/2023,South,Jose Walter,BMW,3 Series,2024,45845.42,5,Cash,Hatchback,Diesel,Red,4.7,176,Automatic,Premium,Woodmouth,42,Male
+11/8/2022,North,Kendra Stafford,Nissan,Rogue,2023,59084.53,4,Credit Card,Truck,Gasoline,Black,2.7,275,Automatic,Base,Tiffanyport,27,Female
+8/13/2025,East,Donna Jenkins,Kia,Optima,2024,24083.8,2,Lease,Hatchback,Electric,White,1,476,Manual,Base,West John,43,Male
+4/14/2024,North,James Carter,BMW,X5,2018,30511.55,4,Credit Card,Sedan,Diesel,Blue,1.2,103,Manual,Base,North Ashleyhaven,30,Male
+5/20/2025,West,Leslie Logan,Honda,Accord,2024,79594.19,2,Lease,Sedan,Hybrid,Blue,2.9,342,Automatic,Premium,Richardsonbury,27,Female
+8/27/2025,East,Susan Lee,Chevrolet,Tahoe,2019,41171.45,1,Lease,Sedan,Hybrid,White,4.1,212,Manual,Premium,Port Brent,27,Female
+3/17/2023,West,Richard Avery,Mercedes,GLE,2022,71258.32,2,Credit Card,Hatchback,Hybrid,Blue,5,277,Automatic,Premium,South Carrieshire,20,Male
+4/7/2024,North,Mrs. Ana Williams,Ford,Mustang,2023,24112.68,5,Lease,SUV,Electric,Blue,1.1,245,Manual,Sport,North Diana,58,Female
+1/23/2024,East,Jason Brown,Mercedes,E-Class,2019,70267.7,5,Bank Transfer,Truck,Hybrid,White,3.7,382,Manual,Premium,Harrisland,44,Female
+8/5/2023,North,Edward Jones,Kia,Sorento,2021,63251.88,3,Cash,Sedan,Hybrid,Silver,2.3,383,Manual,Sport,Port Benjamin,41,Female
+3/2/2024,South,Andrea Freeman,Nissan,Altima,2024,35680.4,3,Credit Card,Truck,Electric,Silver,3.2,290,Automatic,Premium,Port Kevin,31,Male
+3/10/2025,North,Shannon Chapman,Hyundai,Tucson,2019,74206.8,2,Lease,Sedan,Electric,Red,2.1,412,Manual,Base,Marybury,23,Male
+3/5/2025,North,Susan Walker,Hyundai,Elantra,2022,61650.49,4,Bank Transfer,Hatchback,Gasoline,Silver,3.6,268,Manual,Premium,Danielleside,43,Female
+12/12/2024,East,John Kaufman,Ford,F-150,2021,22871.56,4,Bank Transfer,Hatchback,Hybrid,Black,4,187,Manual,Base,East Jerrychester,29,Female
+2/7/2023,East,Robert Mann,Kia,Sportage,2022,48864.96,3,Bank Transfer,Sedan,Diesel,Blue,2.3,145,Automatic,Sport,South Michaelfurt,58,Female
+4/30/2024,East,Matthew Thomas,Kia,Optima,2021,75821.57,2,Cash,Truck,Hybrid,Black,2.6,244,Manual,Sport,Port Melissaport,61,Female
+3/9/2023,East,Ronald Lee,Hyundai,Sonata,2019,42596.7,3,Credit Card,Hatchback,Gasoline,Blue,2.7,161,Automatic,Base,New Samanthaberg,27,Male
+9/15/2023,West,Samantha Hicks DDS,Ford,Escape,2018,52785.8,5,Cash,SUV,Gasoline,Gray,1.3,112,Automatic,Base,Dunnland,65,Female
+7/23/2025,East,Justin Mcmillan,Honda,Accord,2024,79780.17,3,Bank Transfer,Hatchback,Diesel,White,3.3,294,Manual,Base,Jensenland,32,Female
+12/10/2024,North,Michael Lynch,Ford,Mustang,2023,20931.87,5,Cash,Hatchback,Diesel,Black,4.3,208,Manual,Premium,Harrisontown,21,Male
+5/17/2025,East,Jon Pena,Kia,Seltos,2021,77372.68,5,Lease,SUV,Hybrid,Silver,4.1,446,Manual,Base,Lake Lindsayton,45,Female
+11/11/2023,West,Veronica Padilla,Nissan,Sentra,2019,38410.35,4,Cash,Truck,Diesel,Blue,2.8,274,Automatic,Base,Elizabethfort,67,Male
+7/4/2023,North,Nathan Shelton,BMW,3 Series,2021,40687.36,5,Cash,Sedan,Hybrid,Red,2.4,360,Manual,Premium,Patrickshire,38,Male
+10/5/2023,East,Krystal Meyer,Honda,Accord,2021,46371.59,5,Cash,SUV,Gasoline,White,4,314,Manual,Sport,New Brandybury,47,Male
+7/20/2025,South,Nathan Smith,Kia,Sorento,2020,78862.64,1,Cash,Truck,Hybrid,White,2.7,460,Automatic,Base,Masonville,22,Male
+1/22/2023,East,Michael Cooke,Kia,Seltos,2020,34502.69,5,Cash,Sedan,Gasoline,White,2,474,Manual,Premium,South Jaredhaven,31,Female
+7/2/2025,North,Jessica Henry,BMW,X3,2022,44588.58,2,Credit Card,SUV,Gasoline,Black,2.6,434,Automatic,Sport,Deannaberg,69,Male
+4/30/2023,North,Blake Burch,Audi,Q5,2018,77159.02,1,Credit Card,SUV,Electric,Silver,4.8,464,Automatic,Sport,Ramseyshire,20,Male
+7/13/2023,South,Andrew Collins,BMW,X5,2019,49434.99,5,Bank Transfer,Hatchback,Gasoline,Blue,3.1,153,Manual,Sport,Stephanieburgh,51,Female
+12/8/2022,West,Beth Thomas,Hyundai,Tucson,2019,78617.01,5,Bank Transfer,Hatchback,Electric,Black,3.4,202,Manual,Premium,West Christina,21,Female
+4/28/2025,South,Adam Hood,Audi,A3,2023,74169.34,4,Credit Card,Truck,Electric,Red,2.2,428,Manual,Base,Hallville,68,Male
+5/16/2023,South,Gloria Torres,Hyundai,Sonata,2021,61196.8,2,Lease,Hatchback,Hybrid,Black,3.5,484,Automatic,Base,Robertsstad,59,Female
+10/9/2024,West,Jeffrey Andrade,BMW,X5,2020,55431.98,3,Lease,Truck,Hybrid,White,4.4,144,Automatic,Sport,North Jacquelinebury,51,Male
+8/1/2024,East,Brianna French,Chevrolet,Malibu,2018,23421.79,1,Bank Transfer,SUV,Electric,Gray,2.3,406,Automatic,Sport,East Nicole,45,Female
+6/17/2024,West,Marvin Cooper,Kia,Optima,2022,68478.99,3,Bank Transfer,Sedan,Diesel,Red,2.7,305,Automatic,Premium,East Lauren,28,Female
+8/27/2024,West,Stacy Lewis,Kia,Seltos,2023,29649.26,1,Lease,Truck,Hybrid,White,1.6,461,Automatic,Premium,West Tracy,68,Female
+9/21/2025,South,Wendy Rivers,Ford,F-150,2024,40500.91,1,Cash,Hatchback,Gasoline,White,3.9,378,Automatic,Premium,Hannahmouth,38,Female
+8/28/2024,South,David Morgan,BMW,X5,2024,71992.55,2,Lease,Hatchback,Hybrid,White,3.3,337,Manual,Sport,Josephville,48,Male
+8/22/2025,East,Tanner Campbell,Ford,F-150,2020,32304.06,4,Lease,Hatchback,Diesel,Blue,1.7,363,Manual,Premium,Donnafort,41,Male
+7/20/2023,West,Brian Walsh,Ford,Escape,2023,64396.36,4,Bank Transfer,Hatchback,Gasoline,Black,1.8,385,Manual,Premium,Smithfort,25,Female
+4/24/2023,South,James Brown,Honda,Civic,2022,77351.73,5,Cash,Hatchback,Diesel,Gray,1.3,159,Manual,Base,Macktown,22,Female
+3/9/2023,North,Joshua Robertson,Nissan,Rogue,2022,22374.92,3,Cash,Hatchback,Hybrid,Gray,3.4,245,Automatic,Base,East Tammy,56,Female
+7/18/2025,West,Rachel Rogers,Hyundai,Sonata,2018,74206.88,5,Credit Card,Hatchback,Gasoline,Blue,3.9,429,Manual,Sport,Oconnorland,27,Female
+10/29/2024,North,Mark Brown,Audi,A3,2024,29632.31,2,Cash,Truck,Hybrid,Red,4.9,146,Automatic,Sport,Karenton,33,Male
+12/5/2022,West,Samuel Watts,Honda,CR-V,2019,62956.15,2,Bank Transfer,SUV,Gasoline,Silver,2.5,309,Automatic,Sport,New Tanyafort,41,Male
+10/6/2023,North,Jeffrey Walker,Chevrolet,Equinox,2022,67017.29,4,Cash,Sedan,Gasoline,Gray,4.3,284,Manual,Premium,Clintonview,32,Male
+2/24/2024,South,Susan Pierce,Hyundai,Tucson,2020,47428.11,1,Lease,Sedan,Electric,White,2.3,107,Automatic,Base,Port Josefurt,54,Female
+3/18/2023,East,Taylor Conway,Ford,Escape,2023,68971.41,5,Credit Card,Sedan,Diesel,Blue,1.6,179,Automatic,Base,Lake Tracy,35,Male
+12/7/2022,South,Tara Mcgee,Mercedes,E-Class,2020,27617.16,2,Lease,SUV,Electric,Blue,2.2,356,Automatic,Sport,New Scottchester,25,Female
+5/31/2023,East,Karina Rogers,Chevrolet,Malibu,2019,59300.63,4,Credit Card,SUV,Hybrid,Blue,4.9,188,Automatic,Premium,Youngborough,65,Female
+1/1/2023,South,Emily Edwards,Nissan,Altima,2023,25248.74,5,Bank Transfer,Hatchback,Gasoline,Blue,2.6,210,Automatic,Base,Randyberg,37,Male
+1/31/2023,East,Angela Huber,BMW,X3,2022,22845.76,1,Bank Transfer,Hatchback,Gasoline,Gray,4.2,459,Manual,Sport,Robertborough,38,Male
+5/4/2023,South,Christine Duncan,Honda,Accord,2023,74667.77,3,Cash,SUV,Diesel,Gray,1.6,456,Manual,Premium,Lake Traceyview,52,Male
+11/1/2023,East,Austin Walker,Honda,Civic,2018,48589.13,1,Cash,SUV,Electric,Red,2.6,107,Automatic,Premium,Cabrerachester,55,Female
+3/17/2025,East,Jason Russell,Toyota,Corolla,2019,76689.19,5,Cash,Sedan,Diesel,Gray,1.5,113,Manual,Sport,Coltonville,58,Female
+6/20/2023,South,Joshua Williams,BMW,5 Series,2024,46753.72,1,Cash,Hatchback,Electric,Red,1.9,444,Manual,Sport,Port Jessica,70,Female
+2/2/2025,East,Christina Woods,Chevrolet,Equinox,2022,23625.31,2,Lease,Hatchback,Gasoline,White,1.2,264,Manual,Sport,Huntburgh,68,Male
+4/9/2023,West,Bradley Cole,Audi,Q5,2023,55064.42,1,Lease,Hatchback,Electric,Red,3,299,Automatic,Sport,Oliverfort,59,Male
+11/12/2023,West,Patricia Smith,Kia,Optima,2020,63793.16,1,Lease,Sedan,Diesel,Black,4.6,208,Automatic,Sport,Sarahmouth,60,Male
+8/23/2025,East,Kenneth Roberts,Mercedes,C-Class,2024,63010.83,1,Credit Card,Hatchback,Electric,Red,2.6,173,Manual,Base,Markland,30,Male
+8/3/2024,South,Cheryl Johnson,Toyota,Camry,2019,57281.95,2,Bank Transfer,SUV,Electric,Black,2.8,410,Automatic,Premium,New Tiffany,47,Male
+4/10/2023,South,Debra Turner,Honda,Civic,2018,70673.18,4,Lease,SUV,Electric,Red,1.7,282,Automatic,Base,Lake Alfredshire,62,Male
+1/29/2024,North,Allison Graves,Honda,Civic,2022,78795.17,2,Credit Card,Hatchback,Gasoline,White,1.9,351,Automatic,Base,Port Lauren,62,Female
+7/25/2024,West,Raven Hale,Ford,Mustang,2024,40942.01,1,Cash,Truck,Hybrid,Blue,3.1,408,Automatic,Base,Port Stevenville,63,Male
+3/5/2025,West,John Neal,BMW,3 Series,2022,75407.88,4,Bank Transfer,SUV,Gasoline,White,4.3,253,Manual,Sport,North Mauricefort,32,Male
+7/23/2025,East,Latoya Kaufman,Hyundai,Sonata,2021,48655.84,5,Credit Card,Truck,Gasoline,Gray,1.3,148,Automatic,Base,North Andrew,32,Female
+2/2/2023,South,William Miller,Mercedes,GLE,2021,39052.56,1,Credit Card,Sedan,Hybrid,White,3.6,392,Manual,Premium,East Tyler,25,Male
+12/26/2023,North,April Baker,BMW,3 Series,2020,48373.77,1,Credit Card,Truck,Hybrid,Silver,1.2,156,Manual,Premium,North Kimberlyberg,23,Female
+9/12/2024,East,Joshua Horton,BMW,3 Series,2024,53471.35,3,Credit Card,Truck,Electric,Gray,4.6,293,Manual,Sport,North Danielleside,29,Female
+1/22/2025,West,Katrina Carter,BMW,5 Series,2023,65516.62,4,Cash,Truck,Diesel,Blue,4.8,157,Automatic,Base,Jessicaborough,33,Female
+7/26/2025,East,Kim Brown,BMW,X3,2018,35790.83,5,Bank Transfer,SUV,Gasoline,Blue,2.7,286,Automatic,Sport,Walkerfort,25,Male
+4/30/2025,North,Ryan Johnson,Audi,Q5,2020,36851.81,5,Credit Card,Truck,Hybrid,White,3.3,295,Automatic,Premium,North Stevenfurt,63,Female
+2/25/2025,North,Abigail Davis,Nissan,Altima,2021,77695.22,1,Cash,SUV,Electric,Red,2.6,399,Automatic,Base,Port Robert,55,Female
+3/25/2025,West,Ian Stone,Chevrolet,Malibu,2023,24663.4,1,Cash,Sedan,Electric,White,1.5,153,Automatic,Base,Johnstad,45,Female
+2/8/2024,North,Bradley Henderson,Honda,Civic,2020,71210.29,2,Lease,Sedan,Electric,Gray,1.4,466,Automatic,Base,Karenstad,58,Female
+6/30/2025,North,Tim Palmer,BMW,3 Series,2023,46163.21,5,Credit Card,SUV,Diesel,Gray,1.6,299,Manual,Sport,Danielland,47,Female
+7/14/2023,West,Sara Garcia,Mercedes,C-Class,2024,61227.1,4,Cash,Hatchback,Diesel,Black,2,445,Automatic,Sport,Lake Kristinamouth,28,Female
+6/6/2024,West,Brandon Hernandez,Ford,Mustang,2019,54847.07,3,Credit Card,SUV,Diesel,Silver,2.1,351,Manual,Premium,North Jill,47,Male
+7/11/2023,North,Heidi Hall,Ford,F-150,2024,32128.6,3,Bank Transfer,Truck,Hybrid,Red,4,265,Manual,Premium,West Diana,26,Male
+12/11/2024,West,Crystal Jackson,Chevrolet,Tahoe,2021,50184.19,2,Cash,Truck,Gasoline,Blue,2.4,198,Automatic,Premium,Davisberg,38,Male
+6/5/2025,West,Derek Parker,Honda,Pilot,2019,68837.27,3,Credit Card,Truck,Diesel,Black,2.8,413,Manual,Sport,Morrisburgh,62,Female
+4/11/2023,East,Deborah Mora,Kia,Sorento,2020,71443.55,4,Lease,Sedan,Electric,White,4.1,281,Manual,Sport,New Mark,21,Male
+8/4/2023,South,William Rose,Hyundai,Sonata,2024,23893.28,4,Credit Card,Hatchback,Gasoline,Black,2.4,326,Automatic,Base,East Kara,45,Male
+9/30/2023,South,Jessica Holland,Toyota,Highlander,2020,64547.88,2,Lease,Sedan,Gasoline,Red,1.6,230,Automatic,Base,Lake Garrettport,35,Male
+4/22/2024,South,Kelsey Gonzalez,Nissan,Altima,2023,71607.3,2,Lease,SUV,Diesel,Red,2.6,199,Manual,Sport,North Alexmouth,27,Female
+2/4/2025,North,Tammy Buck,Honda,CR-V,2024,67920.62,1,Bank Transfer,Sedan,Electric,White,4.9,104,Automatic,Premium,Lake Annaville,53,Male
+8/3/2025,East,James Hoover,Honda,Pilot,2023,28859.98,4,Cash,SUV,Diesel,White,1.7,203,Manual,Premium,Brandyton,36,Female
+6/1/2024,West,Eric Young,Kia,Seltos,2018,53802.61,5,Credit Card,Sedan,Diesel,Black,1.5,286,Manual,Sport,Paigeberg,32,Male
+1/31/2025,North,Cathy Brown,Toyota,Camry,2024,29506.47,3,Cash,Hatchback,Hybrid,Black,2,180,Manual,Premium,Davidhaven,42,Male
+12/26/2022,West,Leslie Perkins,Hyundai,Tucson,2020,70660.07,5,Credit Card,SUV,Gasoline,Black,3.5,127,Automatic,Base,New Sharonchester,25,Female
+8/20/2025,South,Blake Fitzgerald,Toyota,Highlander,2020,44103.27,4,Credit Card,Hatchback,Gasoline,Black,3.1,349,Manual,Sport,East Shelby,24,Female
+3/17/2024,North,Wanda Garcia,Nissan,Murano,2023,50343.42,5,Cash,SUV,Electric,Blue,1.7,377,Automatic,Premium,East Karahaven,55,Male
+5/31/2025,South,Rachel Martinez,Chevrolet,Impala,2022,29272.8,4,Cash,SUV,Gasoline,Black,1.7,484,Manual,Sport,Hooverberg,70,Male
+1/21/2024,North,Christina Peters,Toyota,Camry,2020,56112.86,2,Cash,Truck,Gasoline,White,1.4,238,Automatic,Base,Fernandezton,60,Female
+7/1/2023,West,Barbara Stevens,Toyota,Corolla,2020,77398.04,4,Cash,Sedan,Electric,Black,2.4,367,Manual,Base,Huntport,56,Male
+3/28/2024,North,Charles Perry,Chevrolet,Equinox,2022,57198.49,3,Cash,Hatchback,Diesel,Silver,3.1,266,Automatic,Sport,East Annborough,24,Female
+11/7/2022,South,Diana Robinson,Mercedes,C-Class,2021,60993.69,1,Credit Card,SUV,Gasoline,Blue,2.6,363,Manual,Sport,Thompsonport,64,Female
+3/15/2025,East,Steven Williamson,Hyundai,Elantra,2019,67242.25,3,Credit Card,Hatchback,Diesel,Blue,1.1,466,Manual,Base,Howellborough,42,Male
+8/22/2024,North,Sandra Guerrero,Nissan,Sentra,2022,62037.05,2,Credit Card,Hatchback,Diesel,White,4.2,297,Manual,Premium,East James,57,Female
+12/25/2022,North,Matthew Hernandez,Ford,Explorer,2024,71920.91,1,Bank Transfer,Truck,Electric,Black,2.1,383,Automatic,Premium,New Gregory,44,Male
+10/25/2023,West,Jackie Jackson,BMW,3 Series,2020,32833.12,1,Lease,Hatchback,Gasoline,Red,2.1,333,Automatic,Premium,Lake Megan,49,Female
+6/28/2025,North,Diana Barnes,Kia,Sportage,2024,45686.4,2,Credit Card,Hatchback,Electric,Gray,2.6,413,Automatic,Sport,Mccarthybury,64,Male
+6/2/2024,North,Nicole Garcia,Hyundai,Tucson,2021,62321.05,2,Lease,Truck,Hybrid,Blue,3.7,484,Manual,Sport,West Richardborough,26,Female
+3/29/2025,West,Jennifer Gallegos,Audi,Q7,2021,21616.17,3,Lease,Hatchback,Gasoline,Gray,2.7,410,Automatic,Sport,Raymondfurt,25,Female
+12/18/2022,East,Cory Pennington,Hyundai,Elantra,2023,79148.43,2,Credit Card,SUV,Electric,Red,1.5,354,Automatic,Premium,New Caroline,31,Female
+1/2/2023,East,Mark Black DVM,Nissan,Rogue,2020,70050.02,4,Credit Card,SUV,Hybrid,Gray,2.9,257,Manual,Sport,Lake Seanview,68,Female
+10/1/2024,East,James Green,Chevrolet,Malibu,2023,54173.08,1,Bank Transfer,Hatchback,Electric,Black,1.1,375,Automatic,Base,Mcleanberg,64,Female
+10/24/2023,West,Thomas Oconnor,Kia,Sorento,2022,59952.37,3,Cash,Hatchback,Hybrid,Red,2.7,405,Manual,Sport,Daughertyview,66,Female
+12/7/2022,East,Lauren Estes,Nissan,Rogue,2024,73961.08,5,Bank Transfer,Sedan,Hybrid,Silver,4.5,279,Automatic,Premium,New Laura,40,Male
+7/25/2024,North,Peter Ramos,Nissan,Rogue,2024,72974.92,4,Credit Card,Hatchback,Electric,Blue,4.5,377,Automatic,Base,Jenniferton,65,Female
+6/17/2023,South,Melissa Wright,BMW,5 Series,2019,68097.16,2,Lease,SUV,Hybrid,White,3.4,453,Automatic,Sport,Deniseville,62,Male
+12/19/2024,South,Michael Watson,Chevrolet,Malibu,2024,31293.03,1,Bank Transfer,SUV,Electric,Blue,2.4,250,Manual,Premium,Mooreville,49,Female
+12/27/2024,East,Joyce Jones,Hyundai,Tucson,2021,77476.57,1,Credit Card,Sedan,Electric,Black,3.7,441,Automatic,Base,New Matthewfurt,62,Female
+9/28/2023,North,Danielle Matthews,Audi,Q7,2023,78158.41,5,Bank Transfer,SUV,Electric,Red,1.7,121,Automatic,Premium,Anneland,50,Female
+9/5/2025,East,Patrick Boyd,Chevrolet,Tahoe,2021,71231.97,3,Cash,Truck,Gasoline,Silver,5,221,Manual,Sport,East Ryanside,27,Male
+5/2/2025,West,Danny Fields,Honda,Accord,2023,50725.27,3,Cash,Truck,Electric,White,2.2,396,Manual,Premium,Lake Monica,65,Male
+5/8/2024,South,Samantha Long,Chevrolet,Equinox,2021,26551,4,Lease,Sedan,Gasoline,Silver,4.4,312,Automatic,Sport,Lake Margaretbury,34,Female
+8/10/2024,West,Dustin Newman,Toyota,Camry,2021,54358.75,1,Cash,Sedan,Hybrid,Blue,2.4,112,Automatic,Base,Christinemouth,26,Male
+8/16/2024,South,Joe Dixon,Kia,Seltos,2018,37921.48,4,Cash,Truck,Electric,Black,3,278,Manual,Sport,Bakershire,59,Female
+7/19/2023,North,Jessica Bennett,Mercedes,E-Class,2018,71387.95,3,Cash,Hatchback,Hybrid,Silver,2.2,209,Automatic,Sport,Thomasview,45,Male
+5/4/2023,North,Elizabeth Garcia,Toyota,Highlander,2023,26825.24,1,Bank Transfer,SUV,Gasoline,Gray,2.9,370,Automatic,Base,Hillbury,24,Male
+6/5/2025,North,Jermaine Chambers,Nissan,Altima,2021,69240.81,5,Cash,Truck,Electric,Black,3.5,442,Manual,Base,Jeremyside,25,Male
+6/8/2025,South,Wanda Stark,Kia,Sportage,2019,23259,5,Lease,SUV,Diesel,Blue,2,128,Manual,Premium,Lake Christine,22,Female
+4/28/2024,North,William Walsh,Mercedes,GLC,2021,32780.98,4,Credit Card,SUV,Electric,Black,1.1,173,Automatic,Base,Frankport,70,Male
+12/2/2022,South,Aaron Garcia PhD,Toyota,RAV4,2022,74647.37,1,Cash,SUV,Gasoline,Silver,4,200,Automatic,Premium,Tylerton,37,Male
+7/8/2024,West,Holly Jackson,Ford,Escape,2020,74264.85,2,Cash,SUV,Hybrid,White,3.3,490,Automatic,Base,Ericahaven,48,Female
+10/4/2023,East,Aaron Gray,Toyota,RAV4,2023,65054,3,Lease,Truck,Hybrid,White,2.4,418,Automatic,Premium,Lake Edward,45,Female
+3/11/2025,North,Mark Snyder,Mercedes,E-Class,2018,33434.78,4,Lease,Truck,Hybrid,Silver,1.7,459,Manual,Base,North Cherylhaven,20,Female
+8/2/2024,South,Amy Alvarado,Honda,Civic,2021,30903.33,4,Bank Transfer,Hatchback,Electric,Blue,4,260,Automatic,Premium,Lindseystad,60,Female
+5/2/2024,North,Stephanie Wright,Honda,CR-V,2023,74377.9,3,Bank Transfer,SUV,Diesel,Blue,3.7,168,Automatic,Premium,South Steven,47,Female
+5/14/2025,East,Robert Guerra,Kia,Sorento,2024,76578.57,2,Credit Card,Hatchback,Diesel,Gray,3.7,333,Manual,Sport,East Kirstenhaven,46,Male
+10/25/2024,West,John Weiss,Mercedes,C-Class,2022,64506.79,5,Credit Card,Sedan,Gasoline,Black,1.9,155,Automatic,Base,North Sandra,41,Female
+3/13/2024,West,Connie Conley,Mercedes,C-Class,2021,74657.14,1,Bank Transfer,Truck,Diesel,Blue,1.9,174,Automatic,Base,East Cassandra,60,Male
+3/23/2023,North,Johnny Singh,Ford,Explorer,2019,34233.22,5,Bank Transfer,SUV,Hybrid,Gray,4.5,397,Manual,Premium,Nicholsland,25,Female
+1/1/2023,South,Angela Burgess,Honda,CR-V,2018,20882.05,2,Lease,SUV,Electric,Black,1.8,101,Manual,Base,Port Nicole,51,Male
+12/26/2023,West,John King,Toyota,Highlander,2024,29546.63,2,Bank Transfer,SUV,Gasoline,Red,4.2,214,Automatic,Sport,East Randymouth,56,Male
+10/27/2024,South,Linda Patton,Honda,Civic,2022,39453.9,2,Bank Transfer,Truck,Diesel,Gray,4.1,463,Automatic,Base,Lake Nathanielmouth,23,Female
+10/18/2025,South,Joshua Vasquez,Toyota,Highlander,2018,37661.45,2,Lease,Sedan,Electric,White,1.3,258,Manual,Sport,West Leahmouth,22,Female
+8/18/2025,West,Wesley Bernard,Chevrolet,Equinox,2022,55379.14,2,Credit Card,SUV,Gasoline,Red,1.7,101,Manual,Base,Micheleville,50,Male
+4/12/2024,North,Daniel Johnson,Audi,A4,2018,79507.64,5,Cash,Hatchback,Electric,Red,4.7,381,Manual,Base,Amybury,30,Female
+7/24/2025,South,Jeffrey Maddox,Kia,Sportage,2019,45546.94,1,Bank Transfer,Hatchback,Electric,Silver,3.3,485,Manual,Sport,Lake Donald,45,Female
+11/14/2023,East,Elizabeth Burns,Ford,F-150,2023,37025.49,1,Cash,Truck,Gasoline,Silver,2.3,101,Manual,Sport,East Susanfort,70,Female
+12/18/2024,East,Theresa Bailey,Mercedes,C-Class,2021,33443.39,4,Lease,Truck,Hybrid,White,3,104,Manual,Sport,Danielhaven,21,Female
+6/28/2024,South,Samantha Walters,BMW,X3,2021,45746.47,2,Bank Transfer,Truck,Diesel,Red,1.3,465,Manual,Sport,Kelleyborough,27,Female
+5/10/2025,South,John Nichols,BMW,X5,2019,75437.17,1,Lease,Truck,Hybrid,Red,4.7,190,Manual,Sport,New Joseph,55,Male
+2/3/2025,North,Alan Pacheco,BMW,5 Series,2021,56197.52,3,Lease,SUV,Electric,Silver,4.1,492,Manual,Premium,East Jordanton,45,Male
+5/15/2024,West,Amy Bender,Mercedes,GLE,2018,45017.13,2,Cash,SUV,Electric,Red,3.9,312,Manual,Sport,Farrellland,28,Female
+3/19/2023,West,Frank Anderson,BMW,X5,2021,20982.03,4,Cash,Sedan,Electric,Gray,4.6,482,Automatic,Sport,Johnhaven,70,Female
+4/6/2023,West,Christina Williamson,Honda,Accord,2020,43462.7,1,Cash,Truck,Electric,White,2.3,487,Automatic,Base,Johnsonbury,70,Male
+4/13/2025,North,Cindy Diaz,BMW,X3,2020,59354.75,3,Cash,Sedan,Diesel,Gray,3.3,443,Automatic,Sport,New Karen,64,Male
+10/9/2025,South,Kevin Ortiz,Toyota,Highlander,2020,40141.5,3,Cash,Sedan,Diesel,Blue,3.9,340,Manual,Premium,Lopezmouth,50,Female
+12/7/2022,North,Michael Wong,Honda,Accord,2021,77480.11,1,Cash,Sedan,Gasoline,Silver,3,318,Manual,Sport,Aaronport,34,Female
+9/18/2024,North,Craig Johnston,Mercedes,GLE,2023,61026.32,3,Cash,Hatchback,Electric,Gray,2,445,Manual,Premium,New Katie,28,Male
+10/9/2023,North,Joseph Jensen,Nissan,Sentra,2024,27250.53,1,Credit Card,SUV,Diesel,White,2.8,387,Automatic,Premium,West Michael,52,Male
+6/13/2024,East,Rita Dorsey,Toyota,RAV4,2021,23542.73,2,Credit Card,Hatchback,Hybrid,Black,2.6,268,Manual,Premium,East Ashleyberg,23,Male
+2/13/2023,West,Jessica Rice,Chevrolet,Impala,2018,45602.37,3,Bank Transfer,Truck,Gasoline,Gray,1.1,197,Automatic,Base,Luisborough,60,Female
+8/10/2023,East,Sara Carter,Mercedes,E-Class,2018,72008.62,2,Bank Transfer,Hatchback,Hybrid,Blue,1.7,398,Automatic,Base,West Kathleen,27,Male
+7/23/2023,East,Kelly Diaz,Ford,Escape,2023,52759.83,2,Bank Transfer,Truck,Electric,Gray,2.9,354,Automatic,Base,East Austin,39,Female
+6/11/2025,North,Miranda Williams,Kia,Seltos,2022,50399.18,1,Lease,Hatchback,Diesel,Black,3,333,Automatic,Sport,New Angelamouth,48,Male
+4/20/2025,South,Beth Miller,Chevrolet,Equinox,2022,27827.45,1,Credit Card,SUV,Hybrid,Silver,2.9,431,Automatic,Premium,West Brandy,52,Male
+2/26/2023,North,Jason Mcgrath,Ford,Mustang,2023,75816.69,1,Credit Card,Sedan,Electric,Black,3.7,262,Manual,Premium,Port Dana,41,Female
+11/20/2024,East,Lisa Watson,Kia,Optima,2021,43081.81,2,Credit Card,SUV,Gasoline,Red,2.5,418,Manual,Premium,Sarahborough,43,Female
+4/23/2024,West,Patricia Cervantes,Kia,Sorento,2019,43025.86,4,Credit Card,Hatchback,Hybrid,Blue,1.4,312,Manual,Sport,West Jessica,46,Female
+9/4/2024,East,Tony Watson,BMW,3 Series,2024,59046.66,1,Credit Card,Sedan,Electric,White,1.2,251,Automatic,Premium,East Lisa,36,Female
+6/11/2025,North,Frances Adams,Ford,F-150,2021,69926.68,3,Cash,Sedan,Hybrid,Gray,3.2,462,Automatic,Premium,Alfredborough,55,Female
+4/20/2024,East,Jenna Leach,BMW,X3,2019,34507.72,3,Credit Card,Truck,Gasoline,White,4.4,384,Manual,Premium,Lake Jesusville,54,Male
+5/17/2024,North,Joseph Scott,BMW,3 Series,2022,43494.78,4,Cash,Truck,Electric,Blue,1.9,361,Manual,Premium,Debrahaven,35,Female
+2/25/2024,East,Tyler Burgess,Nissan,Altima,2021,27648.75,5,Credit Card,Sedan,Diesel,Red,3.7,406,Automatic,Base,Stoneview,61,Male
+9/2/2023,North,Ashley Dorsey,Ford,Escape,2020,28750.28,3,Lease,Hatchback,Gasoline,Silver,2,465,Automatic,Premium,South Amyburgh,28,Male
+6/16/2023,East,Chad Davis,Mercedes,E-Class,2019,65156.13,1,Lease,SUV,Electric,Gray,4.7,486,Manual,Sport,Hallfort,64,Male
+1/28/2025,West,Lisa Simpson,Mercedes,E-Class,2024,72602.59,3,Credit Card,SUV,Hybrid,Blue,3.4,497,Manual,Sport,South Jacquelinechester,27,Male
+4/14/2025,West,Todd Anthony,Nissan,Altima,2020,27805.45,1,Credit Card,Truck,Hybrid,Black,1.2,331,Automatic,Base,Woodside,50,Male
+8/2/2024,East,Jacob Harris,Mercedes,GLC,2020,34909.17,4,Bank Transfer,SUV,Gasoline,Gray,1.9,417,Manual,Base,East Jenna,26,Male
+6/19/2024,South,Nicole Peters,Toyota,Highlander,2022,53682,3,Credit Card,Hatchback,Electric,Gray,1.3,467,Manual,Sport,Warnerville,20,Male
+1/24/2024,South,Tricia Ryan,Kia,Sportage,2021,76132.45,5,Lease,Hatchback,Gasoline,Red,3.9,363,Manual,Base,New Robert,49,Male
+9/26/2025,West,Mr. Jeffrey Scott,Mercedes,GLE,2024,48752.18,1,Lease,Truck,Diesel,Blue,3.5,259,Manual,Sport,Robertbury,65,Female
+7/16/2024,North,Rebecca Chandler,BMW,3 Series,2021,53819.32,2,Credit Card,Sedan,Diesel,Red,3.7,371,Manual,Sport,North Rogerside,54,Male
+7/14/2023,East,Kevin Thompson,Audi,Q5,2020,59607.88,2,Credit Card,SUV,Gasoline,Blue,3.1,262,Manual,Premium,North Angela,43,Female
+1/15/2023,West,Angela Price,Chevrolet,Impala,2022,42534.82,1,Lease,Truck,Gasoline,White,2.1,123,Manual,Premium,Port Brittanybury,63,Female
+11/14/2023,East,Cindy Hall,Hyundai,Elantra,2019,72703.82,3,Credit Card,SUV,Electric,Blue,3.5,254,Automatic,Base,North Derekland,59,Female
+6/1/2023,South,Stephanie Fitzgerald,Mercedes,E-Class,2021,33456.46,4,Lease,Hatchback,Gasoline,Silver,3.7,112,Automatic,Sport,Port Michelle,48,Male
+10/21/2024,East,Daniel Price,Hyundai,Sonata,2024,39381.76,1,Bank Transfer,SUV,Electric,Blue,3.1,160,Manual,Base,Cruztown,41,Male
+2/23/2024,North,Catherine Barnes,Mercedes,GLC,2018,55300.54,2,Bank Transfer,SUV,Hybrid,Blue,3,383,Manual,Base,Davishaven,65,Female
+1/28/2025,West,Lucas Baxter,Mercedes,GLE,2022,54917.68,1,Bank Transfer,Truck,Hybrid,Blue,4.9,139,Automatic,Sport,Grayview,48,Female
+1/18/2023,South,Christopher Mack,Mercedes,C-Class,2022,77978.52,2,Credit Card,Sedan,Electric,Blue,1.9,206,Manual,Premium,Riveraton,20,Female
+3/14/2023,West,Desiree Raymond,Honda,CR-V,2018,59322.88,3,Lease,Hatchback,Electric,Blue,3.2,360,Manual,Sport,Lake Jessicabury,32,Male
+9/16/2024,North,Kevin Ward,Nissan,Rogue,2018,32680.45,2,Credit Card,Sedan,Diesel,White,4.2,414,Manual,Sport,East Jason,67,Male
+10/1/2023,North,Ashley Thomas,Kia,Sorento,2020,75611.33,4,Bank Transfer,Hatchback,Diesel,Gray,1.2,346,Manual,Sport,Lake Stefaniefurt,37,Male
+9/7/2023,South,Lee White,Honda,Civic,2022,29237,3,Lease,Sedan,Electric,Red,4.4,249,Manual,Base,Michelleborough,30,Female
+4/23/2024,North,William Ruiz,Nissan,Rogue,2024,48974.25,3,Cash,Hatchback,Diesel,Blue,1.2,190,Manual,Sport,Port Brenda,51,Female
+8/30/2025,South,Michael Decker,Ford,F-150,2021,64811.93,4,Cash,Sedan,Hybrid,Blue,2.6,375,Manual,Base,East Walter,27,Female
+3/7/2025,West,Tara Turner,Hyundai,Santa Fe,2020,23750.3,1,Credit Card,SUV,Diesel,Silver,1.3,146,Manual,Base,Newmanton,63,Male
+10/14/2023,East,Melvin House,Hyundai,Santa Fe,2020,54498.54,1,Lease,Hatchback,Hybrid,Silver,4.5,322,Automatic,Sport,West Michaelville,46,Male
+7/28/2024,South,Dylan Booth,Kia,Seltos,2019,66232.34,2,Bank Transfer,Hatchback,Gasoline,Black,4.8,442,Manual,Sport,South Ronnie,33,Female
+6/22/2025,North,William Deleon,Toyota,Corolla,2019,41042.2,3,Credit Card,Sedan,Hybrid,Black,1.4,352,Manual,Premium,Martinville,39,Male
+3/11/2024,South,Jennifer Rogers,Kia,Seltos,2023,77094.47,4,Bank Transfer,Hatchback,Diesel,Black,1.1,394,Automatic,Sport,Port Paulatown,29,Male
+4/2/2024,East,Claire Delgado,Kia,Sportage,2024,24720.37,5,Cash,Hatchback,Diesel,White,4.2,438,Automatic,Sport,Micheleton,55,Female
+5/8/2025,East,Jeremiah Erickson,Ford,Mustang,2020,77602.52,2,Credit Card,Truck,Gasoline,Red,2.1,182,Automatic,Premium,East Ricardostad,31,Female
+5/25/2024,East,Kevin Garcia,Nissan,Rogue,2021,51939.4,1,Lease,Sedan,Gasoline,Black,1,202,Manual,Base,Collinstown,28,Female
+10/23/2024,South,Kristen Harper,Honda,CR-V,2024,24316.42,3,Lease,SUV,Gasoline,Silver,4.7,142,Manual,Premium,Lake Preston,52,Female
+4/11/2025,South,Tyler Johnson,Audi,Q5,2020,52658.38,4,Lease,SUV,Hybrid,White,4.8,382,Manual,Premium,East Rebeccaville,44,Female
+12/10/2022,West,Alison Knight,Ford,F-150,2020,32517.94,4,Bank Transfer,Truck,Electric,Gray,2.3,286,Automatic,Premium,South Michaelhaven,62,Female
+7/30/2025,West,Bianca Howard,Mercedes,GLE,2021,54530.98,5,Cash,Truck,Electric,Gray,1.1,377,Manual,Sport,Codyshire,55,Female
+9/18/2023,South,Deborah Maynard,BMW,5 Series,2018,74117.11,1,Credit Card,Truck,Gasoline,Gray,2.8,434,Automatic,Sport,Theresachester,45,Male
+10/28/2022,East,Teresa Franco,Ford,F-150,2022,31517.61,4,Lease,SUV,Diesel,Silver,1.6,187,Automatic,Sport,New Virginia,46,Female
+5/22/2023,West,Omar Anderson,Hyundai,Tucson,2024,60468.04,1,Cash,Truck,Gasoline,Silver,2.4,273,Automatic,Sport,Burnsfurt,36,Female
+2/6/2025,North,Matthew Floyd,Audi,Q5,2019,28418.85,1,Cash,Truck,Diesel,Black,1.9,465,Manual,Sport,Reedtown,25,Male
+8/21/2023,South,Thomas Ellison,Nissan,Altima,2024,41475.98,2,Lease,SUV,Gasoline,Silver,1.6,269,Automatic,Base,Port Maryview,57,Female
+8/9/2025,East,Jesse Wilson,BMW,X5,2023,34838.19,5,Credit Card,SUV,Hybrid,Black,2.5,368,Manual,Base,Brendaville,57,Female
+12/17/2022,West,Wendy Garner,Ford,Mustang,2021,38815.81,1,Credit Card,Hatchback,Diesel,White,4.4,117,Manual,Sport,East Heathermouth,52,Female
+3/14/2025,West,Meredith Bryant,Nissan,Rogue,2018,46490,5,Lease,Sedan,Electric,Red,3.8,342,Automatic,Base,New Daniel,37,Male
+8/16/2025,East,Sara Davidson,Kia,Optima,2020,59761.14,4,Lease,Sedan,Gasoline,Blue,2.2,411,Automatic,Premium,Shawnbury,64,Female
+5/2/2024,North,Laura Ramirez,Chevrolet,Malibu,2024,39742.86,1,Credit Card,SUV,Electric,Red,4.6,172,Automatic,Base,Justinmouth,36,Male
+6/8/2025,North,Todd Fox,Kia,Sportage,2022,42000.7,4,Lease,Hatchback,Gasoline,Black,4.8,446,Automatic,Sport,West Crystal,43,Male
+1/29/2023,South,Erica Johnson,Ford,Escape,2021,72129.42,3,Credit Card,Hatchback,Diesel,Red,1.4,286,Manual,Sport,South Stevenborough,56,Male
+5/30/2024,North,Kenneth Freeman,Hyundai,Sonata,2022,64403.26,2,Bank Transfer,Truck,Electric,Silver,1.6,437,Automatic,Sport,Lake Ashleehaven,30,Female
+8/31/2025,East,Tracy Peterson,BMW,X3,2022,26699.47,3,Bank Transfer,Sedan,Electric,Gray,2.9,228,Automatic,Premium,Fernandezfort,70,Female
+7/14/2024,East,Jacob Andersen,Mercedes,GLC,2020,59775.22,2,Bank Transfer,SUV,Diesel,Black,1.1,230,Manual,Premium,Zacharyfort,41,Female
+2/20/2025,North,Michael Lara,Ford,F-150,2023,32268.44,5,Cash,Hatchback,Hybrid,Silver,3.1,264,Manual,Premium,Port Edward,64,Female
+9/12/2025,North,Emily Clarke,Kia,Sportage,2019,40850.35,4,Bank Transfer,Truck,Hybrid,Gray,3,124,Manual,Premium,West Karatown,54,Female
+5/1/2024,East,Bradley Diaz,Toyota,Corolla,2020,25164.95,1,Lease,Truck,Hybrid,Red,1.2,322,Manual,Premium,Coreymouth,44,Female
+5/26/2023,East,Andrew Brown,Honda,Civic,2021,53191.42,5,Cash,Sedan,Gasoline,Black,1.4,156,Automatic,Premium,North Rodney,33,Female
+3/4/2023,North,Nathan Gomez,Nissan,Sentra,2024,65869.35,2,Credit Card,SUV,Hybrid,Silver,2.5,175,Manual,Base,Jamesstad,52,Male
+10/20/2024,West,Phillip Herrera,BMW,5 Series,2023,48142.48,2,Lease,SUV,Electric,White,2,497,Automatic,Sport,North John,33,Female
+2/24/2024,South,Vanessa Mcpherson,Audi,Q7,2020,47427.2,3,Credit Card,Truck,Electric,Silver,1.8,332,Automatic,Sport,Scottland,65,Male
+6/3/2023,West,Noah Nelson,Ford,Escape,2018,71008.4,5,Bank Transfer,SUV,Gasoline,Silver,1.2,147,Automatic,Base,Greenton,22,Male
+4/12/2025,South,Dennis Lee,Ford,F-150,2021,55688.75,5,Lease,Hatchback,Diesel,Blue,3,278,Automatic,Premium,West Kathryn,22,Male
+9/19/2023,East,Natasha Burns,Mercedes,E-Class,2022,38656.4,3,Credit Card,Sedan,Diesel,Blue,3.2,126,Manual,Sport,East Holly,33,Female
+8/31/2025,West,Gabriel Webster,Nissan,Murano,2024,21873.53,5,Credit Card,SUV,Hybrid,White,3.6,367,Automatic,Premium,West Kristinborough,50,Female
+8/26/2024,South,Shelley Beck,Honda,Pilot,2023,54203.39,3,Bank Transfer,Hatchback,Gasoline,Blue,2.8,148,Manual,Premium,Chadbury,69,Male
+12/1/2024,West,Justin Edwards,Nissan,Sentra,2024,48241.8,5,Credit Card,SUV,Diesel,Black,2,206,Manual,Sport,Williamsville,30,Female
+8/18/2025,South,Cynthia Gill,Mercedes,GLC,2019,38727.94,5,Lease,Truck,Gasoline,Red,3.1,437,Manual,Sport,Wheelerchester,60,Female
+4/27/2024,East,James Francis,Audi,Q5,2023,77655.01,1,Cash,Truck,Electric,Black,1.2,211,Automatic,Premium,Sandraview,61,Female
+4/28/2024,North,Emily Ewing,Toyota,Camry,2020,57811.17,2,Cash,SUV,Electric,Black,3,318,Manual,Premium,Port Nicholastown,45,Female
+8/19/2023,East,Keith Glenn Jr.,Nissan,Sentra,2023,43247.16,5,Lease,SUV,Diesel,Blue,1.6,182,Automatic,Base,West Anne,61,Female
+5/8/2023,East,Penny Padilla,Toyota,RAV4,2022,43472.16,3,Bank Transfer,SUV,Gasoline,Red,1.1,428,Manual,Base,North Markfurt,29,Male
+6/26/2024,East,Paul Patton,Toyota,Camry,2020,48191.47,2,Bank Transfer,Sedan,Gasoline,Blue,2.9,456,Automatic,Premium,Edwardsshire,24,Female
+8/16/2023,West,Stephanie Gomez,BMW,5 Series,2020,66354.97,4,Lease,SUV,Hybrid,Red,3.8,454,Automatic,Base,Vanessaland,50,Male
+9/4/2025,East,Tiffany Mendoza,Kia,Seltos,2019,73621.64,5,Credit Card,Truck,Electric,Red,4.1,358,Manual,Sport,Melindastad,61,Female
+6/17/2024,North,Kathryn Weaver,Honda,Pilot,2022,29650.65,4,Cash,SUV,Hybrid,Gray,4.7,346,Manual,Premium,Sherrychester,62,Male
+9/15/2025,West,Jasmine Hernandez,Nissan,Sentra,2019,24865.58,5,Credit Card,SUV,Gasoline,Red,4.6,259,Manual,Sport,Andersonland,24,Female
+3/13/2024,North,Julie Cannon,Honda,CR-V,2021,27498.48,3,Bank Transfer,Sedan,Diesel,Gray,4.6,433,Manual,Premium,Port David,42,Male
+2/24/2023,East,Andrew Garcia,Honda,CR-V,2021,47410.03,1,Lease,Truck,Gasoline,Gray,4.7,238,Manual,Sport,Nicholsfort,66,Male
+6/10/2023,East,Jason Joseph,Nissan,Sentra,2018,74101.15,1,Cash,Truck,Diesel,Gray,3.1,324,Automatic,Base,Diazside,22,Female
+3/21/2023,East,Samantha Parker,Mercedes,GLC,2022,29109.69,4,Cash,Sedan,Hybrid,White,3.6,202,Automatic,Sport,Port Kayla,40,Male
+3/6/2023,North,Leah Rivera,Mercedes,E-Class,2022,36747.21,5,Cash,Sedan,Diesel,Black,1.5,248,Automatic,Base,East Staceyport,58,Male
+3/10/2025,West,Adam Lewis,Hyundai,Tucson,2022,49759.3,3,Credit Card,Hatchback,Hybrid,White,1.3,259,Automatic,Premium,East Kayla,20,Male
+8/4/2023,North,Samantha Hernandez,Ford,Escape,2019,52664.98,1,Cash,Sedan,Diesel,Black,3.8,151,Manual,Premium,New Heatherville,23,Female
+4/30/2025,East,Richard Lyons,Hyundai,Tucson,2021,68787.11,4,Credit Card,SUV,Diesel,Red,3.5,133,Manual,Premium,New Morganport,66,Female
+6/19/2025,South,John Johnson,Kia,Optima,2023,22788.36,5,Bank Transfer,Sedan,Diesel,Blue,2,246,Manual,Premium,Granttown,28,Female
+6/29/2023,North,Patrick Nguyen,Nissan,Murano,2018,78971.98,1,Lease,Sedan,Electric,Gray,2.4,463,Automatic,Premium,Lake Ryanbury,69,Female
+11/6/2022,South,Morgan James,Ford,Explorer,2021,70736.94,4,Credit Card,Sedan,Electric,Gray,1.2,112,Manual,Base,Dianaburgh,66,Female
+3/16/2024,West,Lee Frank,Audi,Q7,2019,69533.99,5,Cash,Truck,Gasoline,Blue,1.4,400,Automatic,Premium,Leeview,29,Female
+6/24/2025,South,Andre Patterson,Nissan,Sentra,2021,29810.15,3,Credit Card,Truck,Hybrid,Blue,3.5,254,Automatic,Sport,New Meghanland,61,Female
+8/15/2025,North,Joseph Joseph,Audi,Q5,2022,79748.7,3,Credit Card,Hatchback,Electric,White,1.1,302,Automatic,Premium,New Haley,39,Female
+6/12/2023,North,Grace Wood,Chevrolet,Malibu,2019,54912.81,5,Credit Card,Hatchback,Hybrid,Red,4.9,160,Automatic,Sport,South Anna,67,Male
+2/6/2023,South,Todd Kane,Toyota,Highlander,2020,32688.51,5,Bank Transfer,Hatchback,Electric,White,2.8,229,Automatic,Sport,Sextonfort,58,Male
+4/23/2024,North,Antonio Vargas,Chevrolet,Tahoe,2019,75393.91,5,Lease,Sedan,Hybrid,Black,3.1,313,Automatic,Base,Stephanieberg,55,Male
+1/3/2023,West,Michelle Jenkins,Nissan,Murano,2024,60588.36,2,Cash,SUV,Diesel,Gray,2.9,299,Manual,Base,New Katherinebury,32,Female
+9/26/2024,West,Cassie Fisher,Mercedes,GLE,2022,53989.26,3,Credit Card,SUV,Electric,Gray,3.2,459,Automatic,Sport,Brettville,59,Male
+9/14/2024,South,Monica Martinez,Nissan,Rogue,2024,74076.09,1,Bank Transfer,Sedan,Gasoline,Black,1.6,175,Manual,Sport,Lake Kylemouth,44,Male
+3/13/2025,East,Mark Williams MD,Mercedes,C-Class,2018,35648.39,4,Bank Transfer,SUV,Diesel,Black,1.8,362,Automatic,Base,South Melissaville,27,Female
+3/14/2023,North,Benjamin Singh,Mercedes,GLE,2019,41783.89,2,Cash,SUV,Hybrid,Blue,4.5,447,Automatic,Base,Jerryshire,25,Female
+6/16/2025,North,William Smith,Audi,A4,2023,52486.28,4,Credit Card,SUV,Diesel,Black,3.6,286,Automatic,Premium,Sandrafort,37,Male
+11/7/2022,North,Lindsay Alexander,Kia,Seltos,2019,34543.96,3,Lease,Sedan,Gasoline,Red,1.3,330,Automatic,Premium,Lake Luke,28,Female
+8/9/2024,West,Steven Barnett,Honda,Accord,2022,67227.96,1,Cash,Truck,Hybrid,White,1.8,460,Manual,Sport,South Anthonyfort,67,Female
+4/11/2025,East,Fernando Haas,Ford,Explorer,2023,75891.92,2,Lease,SUV,Electric,Silver,4.8,272,Manual,Base,New Gerald,54,Female
+9/21/2025,North,Matthew Hill,BMW,3 Series,2024,25634.34,2,Bank Transfer,Truck,Electric,Gray,3.1,302,Automatic,Premium,Mosleytown,38,Female
+10/25/2023,East,Virginia Sullivan,BMW,5 Series,2021,58156.72,3,Lease,Sedan,Gasoline,Red,3.8,237,Manual,Premium,Guerraview,36,Male
+1/31/2024,East,Robin Espinoza,Hyundai,Santa Fe,2023,79342.12,4,Bank Transfer,Hatchback,Hybrid,Blue,4.8,212,Automatic,Base,Dawnchester,68,Male
+3/23/2023,East,Karen Phelps,Hyundai,Sonata,2019,77761.2,1,Credit Card,SUV,Diesel,Black,3.4,472,Automatic,Base,Elizabethburgh,53,Female
+11/3/2024,East,Brian Gonzalez,Mercedes,C-Class,2022,73019.58,5,Lease,SUV,Gasoline,White,3,427,Manual,Premium,Lake Clarence,53,Female
+5/18/2025,East,Jennifer Peterson,Ford,F-150,2018,40205.37,5,Credit Card,SUV,Electric,Black,2.5,197,Manual,Base,New Heatherport,68,Male
+8/27/2024,South,Brian Williams,Chevrolet,Tahoe,2022,47567.72,5,Credit Card,Hatchback,Gasoline,Red,3.4,108,Manual,Sport,Lake Gregoryland,28,Male
+7/13/2025,West,James Wood,Audi,A4,2021,34982.84,5,Cash,Truck,Diesel,Red,1.6,206,Automatic,Premium,Aguirreshire,21,Female
+9/11/2025,North,Kelly Hernandez,Audi,A3,2022,53829.77,3,Lease,Truck,Gasoline,Silver,1.8,120,Automatic,Base,New Spencer,37,Male
+11/6/2022,West,Kerry Lowe,Toyota,Corolla,2019,24129.35,1,Cash,SUV,Electric,Blue,4.4,487,Automatic,Base,Port Stephanieborough,43,Female
+4/26/2025,East,Joy Cole,Hyundai,Elantra,2019,63249.38,1,Bank Transfer,SUV,Gasoline,Black,4.1,392,Automatic,Base,East Joel,44,Male
+5/19/2025,South,Matthew Logan,Hyundai,Sonata,2023,67597.2,2,Lease,Hatchback,Electric,Gray,4,446,Automatic,Premium,Smithbury,50,Male
+7/26/2025,South,Brooke Christian,Nissan,Rogue,2022,75270.04,5,Cash,Hatchback,Electric,Gray,4.2,253,Manual,Base,East Jamesfort,37,Female
+1/28/2025,West,Bryan Odonnell,Audi,Q7,2021,65463.57,3,Lease,Hatchback,Diesel,Black,1.5,419,Automatic,Base,Blankenshipchester,21,Female
+9/21/2024,North,Mr. Patrick Martin,Ford,F-150,2023,72123.48,5,Credit Card,Truck,Hybrid,Gray,4,224,Manual,Sport,East Jefferytown,25,Male
+3/1/2025,South,Don Williams,Kia,Seltos,2019,31233.43,1,Cash,Sedan,Gasoline,Blue,2,153,Automatic,Sport,West Melissa,54,Male
+7/7/2024,West,Kenneth Rivera,BMW,5 Series,2021,24281.57,1,Bank Transfer,Truck,Hybrid,Red,2.9,419,Automatic,Premium,North Connor,67,Female
+12/11/2023,East,Mitchell Rodriguez,Kia,Optima,2020,53065.54,3,Cash,SUV,Electric,Silver,3.3,429,Manual,Base,Williamsmouth,47,Female
+5/9/2025,South,Brett Marshall,Honda,Pilot,2020,24005.4,2,Bank Transfer,Sedan,Hybrid,Red,4.8,338,Automatic,Premium,Lopezfurt,38,Male
+12/16/2023,East,Sue Huerta,Chevrolet,Equinox,2018,65291.24,5,Bank Transfer,Hatchback,Hybrid,Black,1.3,477,Automatic,Base,Port Penny,57,Female
+9/15/2025,North,Kelsey Best,Toyota,RAV4,2018,68698.92,3,Credit Card,Hatchback,Diesel,Gray,4.9,307,Manual,Base,Lindashire,38,Male
+10/6/2025,North,Nancy Baker,Toyota,Highlander,2020,53776.66,5,Lease,Hatchback,Hybrid,Blue,2,242,Manual,Sport,Lake Kevin,45,Male
+7/5/2023,West,Austin Walker,Hyundai,Sonata,2020,30079.4,2,Credit Card,Hatchback,Gasoline,Red,1.5,398,Manual,Premium,East William,67,Male
+5/29/2025,East,Gloria Wright,Chevrolet,Malibu,2024,46263.98,4,Credit Card,SUV,Electric,Black,4.6,101,Manual,Premium,Lake Elizabethport,23,Male
+8/3/2025,East,Eric Morales,BMW,X5,2018,45451.77,1,Cash,Truck,Gasoline,Blue,2.4,275,Automatic,Base,Aprilport,46,Female
+8/5/2023,East,Kathryn Stanton,Chevrolet,Tahoe,2020,57165.89,1,Credit Card,Truck,Diesel,Silver,4.3,164,Automatic,Sport,South Morgan,26,Female
+8/28/2024,South,Sheri Smith,Nissan,Rogue,2020,48608.21,3,Credit Card,Hatchback,Electric,Black,1.1,303,Automatic,Base,Carlfort,70,Male
+6/12/2023,South,Brad Miller,BMW,X5,2019,66775.79,1,Bank Transfer,Sedan,Diesel,Blue,2.6,489,Manual,Base,North Sarahfurt,41,Male
+2/8/2025,North,Matthew Bowen,Nissan,Rogue,2019,26088.31,1,Credit Card,Truck,Diesel,Blue,4.7,344,Automatic,Sport,Benjaminville,46,Female
+5/25/2023,North,Anna Boyle,Ford,F-150,2023,34851.89,3,Cash,SUV,Hybrid,Gray,3.8,491,Automatic,Base,Port Dianeville,60,Male
+3/15/2024,West,Sarah Morrison,Ford,Mustang,2024,27546.73,5,Credit Card,Sedan,Gasoline,Silver,1.8,356,Manual,Sport,Wilkinsonside,43,Female
+9/4/2024,South,Eric White,Hyundai,Santa Fe,2022,30799.66,3,Bank Transfer,Sedan,Diesel,White,3.2,265,Automatic,Premium,Philipshire,46,Female
+6/7/2023,West,Mariah Cook,Honda,Civic,2020,51398.63,1,Lease,Truck,Gasoline,Blue,4.7,284,Automatic,Premium,Aaronmouth,68,Female
+10/2/2024,South,Allison Richardson,Hyundai,Santa Fe,2024,23981.01,3,Credit Card,SUV,Electric,Black,3.8,203,Automatic,Base,Port Stephaniechester,57,Female
+1/16/2025,South,John Daniels,Audi,Q5,2019,78444.49,4,Credit Card,SUV,Hybrid,Blue,1.4,500,Automatic,Sport,North Curtischester,33,Female
+12/5/2024,South,Mrs. Jennifer Stephens,Chevrolet,Tahoe,2018,58532.78,3,Bank Transfer,SUV,Electric,Gray,3.9,175,Automatic,Base,Johnsonport,38,Male
+8/9/2023,West,Kyle Smith,Hyundai,Elantra,2021,71851.29,3,Lease,Hatchback,Hybrid,Red,3.4,219,Automatic,Sport,Taylorshire,57,Male
+10/14/2023,East,Ryan Thomas,Nissan,Sentra,2019,25340.7,3,Lease,Truck,Diesel,White,4,488,Manual,Base,Ryanbury,26,Female
+4/27/2024,East,Jennifer Cameron,Mercedes,GLC,2024,41098.73,2,Credit Card,SUV,Gasoline,White,3,404,Automatic,Base,Nicholasview,35,Male
+11/28/2024,East,Melissa Shepherd,Kia,Sportage,2020,79700.93,1,Bank Transfer,Hatchback,Electric,Black,3.5,495,Manual,Sport,Lake Gina,67,Male
+3/25/2023,South,Hannah Hanson,Audi,Q5,2022,26258.47,4,Credit Card,Truck,Hybrid,White,4.4,367,Automatic,Premium,West Christophermouth,61,Female
+10/8/2024,North,Ann Tate,Hyundai,Tucson,2022,54168.34,2,Credit Card,SUV,Gasoline,Black,4.5,211,Automatic,Premium,East Peterport,64,Male
+10/10/2024,South,Krista Carroll,Honda,Accord,2024,20239.06,3,Bank Transfer,Sedan,Electric,Blue,1.4,138,Manual,Premium,Karltown,56,Male
+6/21/2024,East,Mariah Suarez,Kia,Seltos,2022,70880.53,5,Credit Card,SUV,Electric,White,2.1,329,Automatic,Sport,North Katieville,26,Female
+12/31/2022,North,Christina Russell,Mercedes,E-Class,2018,59440.98,5,Bank Transfer,SUV,Gasoline,Silver,1.9,142,Automatic,Premium,Port Matthew,51,Male
+9/29/2024,North,Jason Roberts,Nissan,Altima,2018,67528.92,2,Lease,SUV,Diesel,Gray,3.9,350,Automatic,Sport,Petersport,43,Male
+12/24/2022,South,Amy Blake,Ford,Explorer,2023,58458.09,4,Lease,Hatchback,Diesel,Black,2.7,482,Automatic,Base,South Juliefort,46,Male
+2/15/2024,North,Brandon Baxter,BMW,3 Series,2021,55933.9,3,Cash,Hatchback,Gasoline,White,2.9,303,Automatic,Base,New Anthony,70,Male
+9/9/2025,West,Alec Moreno,Mercedes,C-Class,2021,28846.12,2,Cash,Sedan,Hybrid,Gray,1.8,156,Manual,Premium,Murraybury,36,Male
+6/29/2025,West,Paul Wells,Hyundai,Sonata,2024,38165.53,4,Lease,SUV,Diesel,Gray,4.1,176,Automatic,Sport,Stephaniechester,63,Male
+10/13/2025,East,Alexis Wright,Honda,CR-V,2019,73716.57,5,Bank Transfer,SUV,Electric,Black,3.4,284,Manual,Premium,Lake Lisa,29,Male
+12/19/2024,West,Rachel Tucker,Kia,Sportage,2019,56982.47,2,Credit Card,Truck,Hybrid,Red,3.2,174,Manual,Sport,Port Triciabury,70,Female
+11/29/2022,North,Lauren James,BMW,X3,2024,76750.4,5,Cash,Truck,Electric,Blue,1.4,361,Automatic,Premium,Darrenstad,66,Male
+9/7/2024,East,Shelby Mcgrath,Toyota,RAV4,2018,52120.46,4,Lease,Truck,Electric,Black,4.9,401,Automatic,Sport,North William,20,Male
+5/8/2025,South,Donald Chandler,Toyota,Camry,2020,79820.28,2,Lease,Truck,Gasoline,Silver,1.7,230,Automatic,Sport,Briantown,44,Male
+4/26/2023,North,Cynthia Compton,Toyota,Highlander,2018,25471.35,3,Lease,SUV,Gasoline,White,1.9,320,Manual,Premium,Davisbury,41,Female
+10/5/2024,South,Lori Grant,Nissan,Murano,2023,27081.46,4,Credit Card,Sedan,Gasoline,Black,4.3,476,Automatic,Premium,South Elaine,23,Male
+8/9/2024,North,Lee Robles,Kia,Optima,2019,58949.45,5,Credit Card,SUV,Gasoline,Black,1.6,304,Automatic,Premium,New Christopher,22,Female
+10/9/2025,West,Joel Francis,Honda,Civic,2019,48825.89,4,Bank Transfer,Truck,Electric,Red,5,236,Manual,Sport,South Dannyfort,39,Male
+10/24/2024,South,Nathan Adams,Mercedes,C-Class,2018,42398.82,4,Cash,Hatchback,Diesel,Black,2.8,492,Automatic,Premium,East Barbaraville,32,Female
+7/7/2025,South,Jared Walsh,Hyundai,Tucson,2024,37102.5,3,Cash,SUV,Diesel,Black,4.8,214,Automatic,Premium,Port Joeborough,50,Female
+5/2/2023,South,Michael Summers,Kia,Optima,2018,34766.01,1,Bank Transfer,Sedan,Electric,Blue,1.2,424,Automatic,Sport,West Thomas,65,Female
+4/3/2025,East,Ralph Smith,Chevrolet,Malibu,2018,46660.44,1,Bank Transfer,Sedan,Electric,Blue,3.3,486,Manual,Base,West Crystalmouth,23,Female
+12/6/2023,East,Robin Roberts,BMW,X5,2023,77502.4,5,Credit Card,SUV,Hybrid,Gray,4.2,330,Automatic,Premium,North Andrea,46,Male
+10/25/2024,West,Kayla Cantrell,Chevrolet,Equinox,2022,39037.71,3,Bank Transfer,Hatchback,Hybrid,Gray,3.9,396,Manual,Base,Josephburgh,60,Male
+5/26/2023,South,Thomas Collins,Honda,Pilot,2023,64331.23,5,Cash,Sedan,Diesel,Black,2.5,479,Automatic,Premium,New Ryanfurt,53,Male
+10/30/2022,West,Harold Larson,Chevrolet,Impala,2023,63868.97,1,Lease,SUV,Diesel,Black,1.6,359,Manual,Premium,South Mark,21,Male
+3/15/2023,North,Ronald Lucas,Hyundai,Elantra,2018,70378.31,5,Bank Transfer,Truck,Diesel,Black,1.9,149,Manual,Sport,Donnaborough,21,Female
+9/26/2025,South,Tamara Fleming,Nissan,Sentra,2020,64987.72,3,Cash,Truck,Electric,White,1.7,266,Automatic,Premium,East Amber,35,Male
+12/10/2024,North,Mark Watson MD,BMW,X5,2018,41191.21,4,Lease,Truck,Gasoline,Blue,1.8,122,Automatic,Sport,New Robinside,60,Male
+8/9/2025,West,Michael Brown,Kia,Optima,2020,42655.28,4,Cash,SUV,Diesel,Blue,1.4,450,Manual,Sport,Anthonyport,23,Female
+1/17/2023,North,Shawn Maldonado,Honda,Pilot,2020,65842.68,3,Cash,SUV,Electric,White,3.1,185,Automatic,Premium,South Katieport,44,Female
+10/21/2024,North,Maria Chandler,Chevrolet,Equinox,2024,50428.6,5,Lease,Sedan,Hybrid,Gray,4.4,470,Automatic,Sport,Jonathanfurt,59,Male
+3/1/2023,South,Sherry Roy,Audi,A3,2018,45359.61,4,Credit Card,SUV,Diesel,White,3.7,211,Manual,Base,New Ronaldside,30,Female
+4/8/2023,North,Grace Allen,Hyundai,Tucson,2019,79480.84,3,Bank Transfer,Truck,Hybrid,Gray,1.2,421,Automatic,Base,South Miranda,49,Female
+4/6/2025,North,Donald Cook,Ford,Mustang,2018,31627.87,5,Bank Transfer,Hatchback,Gasoline,Red,3.8,265,Automatic,Base,East Erinville,49,Male
+3/17/2025,North,Dylan Mcgrath,Toyota,Camry,2021,64051.02,1,Bank Transfer,Sedan,Hybrid,Blue,4.6,107,Automatic,Premium,South Pamela,60,Female
+1/7/2025,North,Erin Torres,Mercedes,GLE,2020,68471.52,3,Lease,Sedan,Electric,Blue,1.6,390,Automatic,Base,Dannyside,25,Male
+5/3/2024,West,Emily Burns,Nissan,Rogue,2022,24527.67,4,Bank Transfer,SUV,Gasoline,Silver,4.7,388,Manual,Premium,New Natasha,59,Female
+5/6/2025,West,William Wilson,Honda,Accord,2020,77587.94,1,Cash,Sedan,Diesel,Blue,1.1,268,Automatic,Premium,North Hannahshire,23,Female
+12/17/2024,West,Christopher Webb,Audi,A3,2024,43692.33,4,Lease,Sedan,Gasoline,Gray,2,184,Manual,Sport,Port Lawrenceview,54,Female
+9/22/2025,East,Kevin Young,Kia,Sportage,2019,59025.74,2,Bank Transfer,SUV,Hybrid,Red,3.9,136,Manual,Premium,East Michellebury,25,Female
+12/7/2023,East,Sue Hall,Chevrolet,Tahoe,2022,22017.91,3,Bank Transfer,Truck,Electric,White,4,165,Automatic,Premium,Lake Alexburgh,29,Female
+10/24/2023,North,Jennifer Cohen,Kia,Seltos,2023,55134.02,1,Bank Transfer,Hatchback,Hybrid,Blue,2.6,319,Manual,Sport,Port Kellymouth,61,Male
+12/10/2024,West,Heather Rivera,Hyundai,Tucson,2023,63913.1,3,Bank Transfer,Sedan,Gasoline,White,1.9,428,Manual,Base,New Aprilmouth,33,Male
+2/9/2023,North,Ashley Sanchez,Toyota,Camry,2018,54555.73,4,Cash,SUV,Electric,Gray,3.8,169,Automatic,Base,Mariahbury,67,Male
+3/13/2025,West,Megan Meyer,Mercedes,E-Class,2019,65694.66,1,Bank Transfer,Hatchback,Electric,Gray,2.8,257,Manual,Premium,Amberland,69,Female
+6/23/2023,North,John Lam,Kia,Seltos,2023,72589.68,4,Lease,Truck,Diesel,White,1.6,462,Automatic,Premium,Lake Michelle,26,Female
+9/24/2023,North,Brenda Bailey,Hyundai,Santa Fe,2018,50234.06,5,Cash,Hatchback,Gasoline,Silver,2,213,Automatic,Premium,Loveton,59,Male
+8/1/2023,West,Travis Lane,Hyundai,Tucson,2019,41264.77,1,Cash,Sedan,Gasoline,Red,4,363,Manual,Premium,Peterston,45,Male
+10/29/2023,West,Hannah Harrison,BMW,5 Series,2020,39013.11,1,Lease,Sedan,Gasoline,White,4.4,271,Manual,Base,Lake Adam,45,Male
+11/14/2022,West,John Taylor,Hyundai,Sonata,2022,23048.49,1,Lease,Truck,Electric,Red,1.7,121,Manual,Base,Kimberlymouth,57,Female
+2/4/2023,East,Nathaniel Davis,Toyota,Corolla,2018,76497.42,5,Cash,SUV,Electric,Gray,1.5,301,Manual,Premium,Alexanderberg,44,Male
+1/27/2023,South,Justin Wilson,Audi,Q5,2019,32629.88,5,Bank Transfer,Truck,Hybrid,Red,1,176,Automatic,Base,Bowmanburgh,43,Female
+5/30/2025,East,Jordan Turner,Toyota,Camry,2019,26096.74,3,Cash,SUV,Electric,Red,4.6,277,Manual,Base,North Bryan,57,Male
+8/21/2025,East,Jesse Simmons,Nissan,Murano,2023,68086.77,5,Bank Transfer,SUV,Diesel,Gray,2.2,202,Manual,Premium,Smithstad,24,Female
+1/3/2024,North,Chris Taylor,Chevrolet,Equinox,2018,61032.63,5,Bank Transfer,SUV,Electric,Silver,3.1,400,Automatic,Sport,South Nicoleland,51,Female
+4/7/2024,West,Pamela Warner,Mercedes,C-Class,2023,22950.53,4,Cash,Truck,Electric,Blue,1,321,Manual,Base,Matthewfurt,34,Female
+9/10/2025,East,Catherine Espinoza,BMW,X5,2024,24133.25,3,Lease,Truck,Gasoline,Gray,1.1,361,Manual,Sport,Dickersonhaven,33,Male
+12/31/2024,South,Andrea Collins,Kia,Seltos,2023,62501.9,4,Credit Card,SUV,Diesel,Red,1.7,350,Automatic,Sport,Brianside,42,Female
+3/15/2024,East,Lauren Woods,Ford,F-150,2021,75701.51,4,Bank Transfer,Hatchback,Gasoline,Black,2.3,466,Automatic,Base,Cowanshire,58,Male
+4/16/2023,North,Barbara Johnson,Kia,Optima,2020,44631.6,1,Bank Transfer,Hatchback,Electric,Silver,1.5,133,Manual,Sport,Stevenmouth,27,Female
+4/29/2025,North,Andre Burnett,Audi,A4,2022,37912.19,3,Cash,Hatchback,Gasoline,Gray,3.9,313,Automatic,Base,West Omar,59,Female
+2/24/2024,West,Julie Smith,Mercedes,GLC,2018,56792.36,3,Lease,Hatchback,Diesel,Silver,3,476,Automatic,Base,Frederickfort,39,Male
+6/23/2025,South,Angel Rios,Ford,Mustang,2023,58622.22,2,Credit Card,SUV,Diesel,White,1.1,269,Manual,Sport,Susanborough,70,Female
+12/22/2023,West,Taylor Thompson,Mercedes,C-Class,2021,54921.05,2,Lease,Hatchback,Electric,White,3.5,283,Manual,Base,New Pedrochester,34,Male
+5/9/2024,South,Deanna Wilson,Kia,Sorento,2022,54354.24,4,Bank Transfer,SUV,Hybrid,Black,1.2,230,Automatic,Premium,Danielhaven,37,Male
+11/4/2023,South,Claudia Smith,Audi,A3,2024,62649.59,4,Cash,SUV,Diesel,Blue,4.5,134,Automatic,Sport,Hayeschester,48,Female
+4/29/2024,West,Amy Hall,Nissan,Murano,2019,75735.16,2,Cash,Hatchback,Hybrid,Blue,1.3,339,Manual,Base,Mariomouth,27,Male
+10/26/2023,West,Kristine George,BMW,5 Series,2022,27892.4,5,Bank Transfer,Truck,Hybrid,White,2.7,470,Manual,Base,New Anthony,69,Female
+7/8/2025,South,Misty Davis,Chevrolet,Impala,2020,65065.3,3,Credit Card,Sedan,Gasoline,Gray,3.3,335,Manual,Premium,Josephville,23,Male
+6/15/2024,West,Ian Diaz,Kia,Seltos,2021,75054.92,4,Lease,Hatchback,Gasoline,Gray,3.8,335,Automatic,Sport,New Joshua,65,Female
+1/11/2025,South,Regina Cruz,Chevrolet,Tahoe,2020,41542.38,3,Bank Transfer,Sedan,Gasoline,Black,2,479,Manual,Premium,South Leah,63,Female
+2/9/2023,South,John Willis,Hyundai,Sonata,2021,44150.97,2,Credit Card,Truck,Hybrid,Blue,1,233,Automatic,Base,Meganton,65,Female
+6/6/2023,East,Thomas Anderson MD,Hyundai,Elantra,2020,48993.75,2,Lease,SUV,Hybrid,Red,4.7,215,Automatic,Base,Port Melissa,58,Female
+11/4/2023,South,Colleen Young,BMW,3 Series,2019,66760.43,2,Credit Card,SUV,Electric,Silver,3,276,Automatic,Sport,North Samuel,60,Male
+2/8/2024,South,Noah Hunter,Nissan,Altima,2018,34603.41,1,Bank Transfer,Hatchback,Electric,Red,4.4,250,Automatic,Premium,Bryantberg,48,Male
+4/8/2024,North,Edward Fowler,Ford,Explorer,2019,28229.35,5,Lease,Sedan,Electric,Silver,4,367,Manual,Premium,Port Lisaside,47,Male
+5/17/2023,West,Susan Bowman,Hyundai,Tucson,2019,63395.39,1,Bank Transfer,SUV,Hybrid,Silver,3.9,332,Manual,Sport,North Geraldside,32,Male
+11/14/2023,West,Ashley Williams,Honda,Pilot,2022,45883.84,1,Credit Card,Sedan,Diesel,Silver,4.4,188,Manual,Base,Thomasbury,31,Male
+5/5/2025,East,Caitlin Ruiz,Ford,Mustang,2021,27608.53,1,Cash,Sedan,Gasoline,Blue,1.7,316,Automatic,Sport,New Brittanytown,66,Female
+7/21/2023,West,Richard Klein,Chevrolet,Malibu,2023,38952.95,1,Cash,Hatchback,Hybrid,Red,1.5,167,Automatic,Base,New Lisaside,43,Female
+1/28/2024,North,Sandra Neal,Chevrolet,Tahoe,2021,51750.62,2,Credit Card,Hatchback,Hybrid,White,4.9,184,Manual,Sport,Ethanview,25,Male
+10/15/2023,West,Jonathan Ellis,Toyota,Camry,2022,45262.02,5,Bank Transfer,Truck,Electric,Gray,1.1,480,Automatic,Premium,Larsonchester,52,Female
+2/15/2023,North,Cory Taylor,Mercedes,GLC,2019,48615.35,2,Cash,Sedan,Diesel,Silver,2.5,317,Manual,Base,Brownmouth,45,Male
+10/23/2023,South,Gregory Carroll,Hyundai,Elantra,2022,73976.89,2,Bank Transfer,SUV,Gasoline,Black,3,282,Automatic,Premium,Port Robertfurt,29,Female
+12/26/2024,East,Jennifer Hahn,Nissan,Sentra,2021,36016.77,2,Bank Transfer,Sedan,Gasoline,Silver,2.3,428,Automatic,Base,Stephaniehaven,33,Male
+4/4/2025,North,Marie Kennedy,Ford,F-150,2020,74135.74,2,Credit Card,SUV,Diesel,Gray,4.3,206,Automatic,Base,Ortizview,29,Female
+11/27/2024,South,David Lawrence,Nissan,Sentra,2022,33119.62,2,Lease,Sedan,Diesel,Black,2.9,386,Manual,Sport,East Jacobberg,51,Female
+12/15/2024,East,Heather Miller,Mercedes,C-Class,2020,42606.72,1,Lease,Hatchback,Electric,Black,1.2,419,Manual,Base,Lake Craig,55,Female
+8/2/2025,West,Jennifer Green,Honda,Pilot,2023,79458.64,2,Cash,Sedan,Electric,Blue,4.9,171,Automatic,Sport,Edwardsmouth,40,Male
+4/26/2023,North,John Turner,Chevrolet,Impala,2019,42729.28,5,Bank Transfer,Truck,Gasoline,Red,4.8,490,Manual,Base,Lake Lindachester,64,Female
+12/22/2024,North,Alexis Fox,Hyundai,Elantra,2020,36849.75,2,Lease,Sedan,Gasoline,Blue,2.6,319,Automatic,Premium,South Judy,24,Male
+11/25/2022,East,Joseph Brooks,BMW,5 Series,2018,22261.57,2,Credit Card,Sedan,Gasoline,Black,1.5,373,Manual,Sport,West Michael,33,Male
+12/5/2023,North,Angela Mcbride,Mercedes,GLE,2024,48097.55,5,Credit Card,SUV,Electric,Red,1.2,192,Automatic,Premium,Berryhaven,29,Male
+2/25/2024,North,Nancy Gomez,Kia,Optima,2023,62635.42,5,Bank Transfer,SUV,Hybrid,White,4.2,398,Manual,Base,Powellview,57,Male
+5/13/2025,East,Christopher Grant,Nissan,Sentra,2022,60063.11,2,Cash,SUV,Electric,Silver,4.4,188,Manual,Premium,Lake Jennifer,24,Female
+9/7/2024,East,Kathryn Johnson,Ford,Mustang,2024,76171.39,1,Credit Card,Hatchback,Diesel,White,3.2,419,Automatic,Premium,South Douglasfurt,59,Female
+12/7/2024,West,Michael Smith,Audi,Q5,2023,27489.7,5,Credit Card,Hatchback,Hybrid,Red,3,483,Manual,Base,Hintonfort,65,Female
+2/13/2024,West,Jason Smith,Hyundai,Santa Fe,2023,66761.28,2,Credit Card,SUV,Gasoline,Black,3.5,382,Automatic,Premium,Valeriefort,28,Male
+5/15/2023,South,Ernest Wolfe,Chevrolet,Malibu,2021,36701.88,5,Bank Transfer,Sedan,Hybrid,Red,1.1,228,Manual,Premium,Lake Melissa,65,Male
+3/15/2023,West,Michelle Caldwell,Hyundai,Sonata,2020,47344.35,3,Cash,Hatchback,Diesel,Black,2.9,199,Automatic,Premium,East Linda,29,Female
+9/6/2023,North,Tina Anderson,BMW,5 Series,2024,39902.26,5,Credit Card,Sedan,Hybrid,Gray,2,448,Automatic,Premium,Davidmouth,55,Female
+3/1/2025,West,Tina Harper,Mercedes,GLE,2024,27347.19,5,Lease,Truck,Diesel,Red,2.9,252,Manual,Premium,West Darren,50,Male
+6/2/2024,North,Scott Foster,Hyundai,Santa Fe,2024,72082.78,3,Bank Transfer,Truck,Electric,Silver,3.5,193,Manual,Premium,Port Craigton,20,Female
+8/24/2025,North,Mark Hopkins,Chevrolet,Malibu,2024,52519.42,4,Cash,Truck,Hybrid,Blue,4.9,394,Automatic,Base,North Courtneyhaven,32,Female
+2/17/2024,South,Yolanda Gould,Honda,Civic,2024,72867.35,2,Lease,SUV,Hybrid,Silver,2.3,321,Manual,Base,West Tyler,24,Female
+3/30/2025,East,Jessica Hernandez,Mercedes,GLC,2019,72656.77,1,Bank Transfer,Sedan,Hybrid,Blue,1.7,462,Manual,Base,Adambury,60,Female
+1/7/2024,West,Brittany Clark,Ford,Explorer,2018,35795.51,5,Credit Card,Truck,Gasoline,White,2.2,427,Automatic,Base,South Deannashire,29,Male
+1/15/2023,North,Timothy Thomas,Kia,Sorento,2018,65346.04,3,Bank Transfer,SUV,Electric,Red,2.4,188,Automatic,Premium,Jonesview,49,Male
+8/10/2023,East,Michele Perry,Ford,Mustang,2018,79267.43,2,Bank Transfer,Hatchback,Diesel,Gray,2.7,445,Automatic,Base,Rachelberg,27,Female
+10/23/2023,East,Rachel Watson,Ford,F-150,2018,25422.25,4,Cash,SUV,Hybrid,Silver,4.3,345,Manual,Base,Danielfort,25,Male
+9/18/2024,West,Joshua Mason MD,Toyota,Highlander,2024,49209.16,2,Lease,Truck,Gasoline,Blue,2.6,204,Manual,Sport,Danielland,40,Male
+12/3/2024,West,Stephanie Walters,Hyundai,Santa Fe,2024,44139.09,3,Cash,Sedan,Gasoline,Gray,3.4,168,Automatic,Premium,Rosalesmouth,48,Female
+6/16/2025,East,Gary Brooks,Audi,Q5,2023,60428.76,3,Bank Transfer,Hatchback,Electric,Blue,1.4,357,Manual,Premium,Hollowaychester,23,Male
+12/25/2023,South,Drew Perez,Mercedes,GLE,2022,56136.35,5,Lease,SUV,Diesel,Gray,1.4,275,Automatic,Sport,Davistown,52,Male
+4/20/2023,North,Joshua Martin,Nissan,Murano,2020,45212.48,2,Bank Transfer,Sedan,Diesel,Black,5,228,Automatic,Sport,Lake Sherry,36,Male
+11/30/2022,South,Megan Cox,Ford,F-150,2020,32426.04,4,Lease,SUV,Gasoline,Blue,2.2,236,Manual,Premium,Theresaside,20,Male
+2/28/2025,North,Cindy Ross,Chevrolet,Malibu,2018,25688.34,3,Cash,Truck,Gasoline,Silver,4.9,150,Manual,Premium,Port Jennifermouth,48,Female
+9/10/2025,South,Ellen Weiss,Toyota,Highlander,2020,74686.5,1,Lease,Hatchback,Electric,Black,3.3,368,Manual,Sport,Karenberg,42,Male
+2/23/2024,East,Sharon Robinson,Audi,Q7,2024,76483.47,2,Bank Transfer,Hatchback,Electric,White,3.1,245,Automatic,Base,Robinsonmouth,50,Female
+1/1/2025,South,Melissa Sullivan,Honda,Pilot,2023,69205.1,1,Credit Card,SUV,Electric,Gray,1.1,452,Automatic,Sport,Lake Kellyfort,65,Male
+12/18/2024,South,Thomas Cooper,Chevrolet,Malibu,2018,25962.27,3,Credit Card,Truck,Electric,Blue,1.5,216,Automatic,Sport,Kaitlynport,32,Female
+4/19/2024,South,Mrs. Amber Love,Toyota,Camry,2018,73231.13,5,Cash,Truck,Electric,Blue,3.3,319,Manual,Premium,Lake Stephanie,50,Female
+11/24/2024,South,Stephanie Bernard,Mercedes,GLE,2020,40939.89,4,Credit Card,Sedan,Gasoline,Silver,3.2,273,Automatic,Base,Theresastad,27,Male
+12/21/2023,West,Natalie Parrish,Honda,Pilot,2023,69093.9,5,Bank Transfer,Sedan,Hybrid,White,1,471,Automatic,Base,Murrayland,53,Male
+5/29/2023,West,Roberto Reynolds,Honda,CR-V,2018,46083.41,2,Bank Transfer,Hatchback,Gasoline,Black,3.6,466,Automatic,Base,South Joshua,68,Female
+9/1/2025,West,Susan Hill,Ford,Mustang,2022,30904.15,4,Credit Card,Truck,Hybrid,Red,4.6,127,Automatic,Base,Lake Michelestad,50,Female
+11/20/2023,North,Larry Jackson,Hyundai,Sonata,2019,72808.85,3,Bank Transfer,Sedan,Diesel,Silver,1.6,438,Manual,Premium,Williamside,25,Female
+2/25/2023,East,Daisy Herring,Nissan,Sentra,2022,29796.75,5,Cash,Hatchback,Diesel,Red,2.7,169,Manual,Sport,Dukeville,45,Female
+11/5/2024,North,Darrell Silva,Hyundai,Tucson,2020,34220.86,2,Bank Transfer,SUV,Hybrid,Silver,2.8,384,Automatic,Sport,Port Stephanie,40,Male
+6/23/2023,East,Douglas Brown,Mercedes,C-Class,2018,35400.13,4,Credit Card,SUV,Diesel,Gray,3,237,Manual,Sport,Warrenfurt,52,Female
+3/31/2025,East,Brooke Bass,Honda,CR-V,2019,57942.44,5,Bank Transfer,Hatchback,Hybrid,Black,2.2,491,Automatic,Base,Matthewborough,48,Female
+7/7/2023,East,Brandon Burton,Hyundai,Elantra,2024,67301.36,1,Bank Transfer,Hatchback,Electric,White,4.9,266,Automatic,Base,South Rebeccaport,27,Male
+1/13/2025,South,Craig Mckinney III,Kia,Sportage,2020,27656.54,4,Credit Card,Hatchback,Hybrid,Red,2.6,248,Automatic,Premium,Wongfurt,31,Female
+12/30/2024,West,Michael Harvey,Kia,Optima,2022,39557.67,5,Lease,Hatchback,Electric,Blue,4.6,225,Manual,Premium,Howardview,49,Male
+6/1/2023,East,Shannon Lyons,Ford,F-150,2022,74278.86,5,Cash,Sedan,Gasoline,Black,2.9,123,Automatic,Premium,South Aprilchester,64,Female
+12/18/2023,West,Briana Castro,Honda,Pilot,2018,68721.82,5,Cash,Truck,Hybrid,Black,1.7,429,Manual,Sport,North Deborah,54,Female
+11/3/2023,South,Angela Carter,Toyota,Corolla,2024,50209.32,3,Bank Transfer,SUV,Electric,Red,3.4,219,Automatic,Sport,New Meganfort,24,Male
+10/31/2022,South,Jeremiah Reid,Mercedes,GLC,2023,63645.25,1,Bank Transfer,Hatchback,Diesel,Gray,2.5,307,Manual,Base,Port Tristanburgh,38,Female
+12/15/2024,North,Danny Solis,Mercedes,GLC,2024,66868.84,2,Bank Transfer,Sedan,Electric,Blue,3.7,107,Manual,Sport,East Michelleside,34,Male
+11/22/2023,West,Cole Nolan,Hyundai,Elantra,2024,53595.73,1,Bank Transfer,Sedan,Hybrid,Silver,2.4,470,Automatic,Base,East Franciscoberg,31,Female
+11/23/2022,East,Jeremy Hodges,Honda,CR-V,2020,72646.44,3,Bank Transfer,Truck,Electric,Blue,3.4,175,Manual,Premium,Watersshire,45,Male
+8/29/2025,East,Mrs. Kimberly Price,Honda,Pilot,2023,51100.45,3,Cash,Sedan,Hybrid,Blue,2,483,Manual,Premium,New Jimmymouth,25,Male
+2/4/2025,South,Lisa Fuentes,Chevrolet,Tahoe,2019,64594.66,5,Credit Card,SUV,Gasoline,Red,3.6,355,Automatic,Premium,Scottton,50,Female
+11/29/2024,West,Steven Martin,Hyundai,Santa Fe,2024,53140.34,5,Cash,Sedan,Gasoline,Gray,4.2,387,Manual,Sport,Port Davidburgh,55,Male
+4/3/2023,South,John Webster,Toyota,Highlander,2021,50902.56,5,Credit Card,Hatchback,Hybrid,Gray,3.1,366,Manual,Base,North Reginald,38,Female
+3/22/2023,South,Jorge Love,Kia,Sportage,2022,54243.75,3,Cash,Truck,Diesel,Black,4.7,211,Manual,Sport,Lake Lisafort,51,Male
+11/1/2024,North,Nicole Peters,Mercedes,E-Class,2021,46729.76,5,Bank Transfer,Truck,Diesel,White,3.9,268,Automatic,Base,West Jamesfurt,22,Female
+10/17/2023,South,Jeff Smith,Audi,Q5,2018,44724.08,4,Lease,Hatchback,Electric,Red,1.8,494,Automatic,Sport,West James,67,Male
+11/2/2024,South,April Shepard,Honda,Civic,2021,22246.72,2,Lease,Hatchback,Hybrid,Blue,2.4,387,Automatic,Sport,East Arthur,31,Male
+4/5/2025,North,Andrew Klein,BMW,5 Series,2022,64871.59,4,Bank Transfer,Hatchback,Hybrid,Gray,3.8,426,Manual,Sport,West Jeremyberg,64,Female
+4/30/2023,East,Karina Wright,Toyota,Corolla,2023,24026.34,2,Lease,Sedan,Hybrid,White,1.6,271,Automatic,Premium,Thompsonton,59,Male
+11/5/2024,South,Paula Cox,Audi,A3,2022,58914.43,3,Lease,Truck,Hybrid,Gray,4.3,329,Automatic,Premium,New Sandra,32,Female
+7/26/2024,East,Kimberly Villarreal,Hyundai,Sonata,2021,49985.96,2,Credit Card,Hatchback,Hybrid,Gray,2.6,249,Manual,Sport,Michelleport,28,Male
+11/30/2024,South,Colleen Sims,Chevrolet,Impala,2023,45820.44,2,Bank Transfer,SUV,Electric,Black,4,148,Manual,Premium,Alexandershire,68,Male
+12/3/2023,South,Randy Cardenas,BMW,X3,2022,58148.1,1,Bank Transfer,SUV,Gasoline,White,4.4,488,Automatic,Base,West Susan,29,Female
+10/11/2023,South,Joseph Dunn,Audi,Q7,2023,38794.69,4,Credit Card,Sedan,Diesel,White,4.3,232,Manual,Premium,Hardytown,24,Female
+5/5/2023,South,Lisa Chung,Nissan,Murano,2020,51693.91,1,Bank Transfer,Truck,Electric,Gray,2.4,139,Manual,Premium,West Brandonview,57,Female
+10/4/2023,West,Debbie Estrada,Hyundai,Santa Fe,2021,25883.57,1,Credit Card,Hatchback,Gasoline,White,2.2,148,Automatic,Premium,Smithchester,37,Male
+9/10/2025,West,Lisa Shannon,Audi,A4,2023,79507.94,4,Bank Transfer,Sedan,Hybrid,Blue,3.9,384,Automatic,Base,Lake Williamhaven,59,Female
+9/2/2023,North,Benjamin Johnson,Ford,Escape,2019,60510.99,1,Credit Card,Hatchback,Diesel,Silver,4.4,190,Automatic,Base,Deborahton,56,Male
+10/14/2024,East,David Davis,Ford,Explorer,2019,53305.02,1,Credit Card,SUV,Gasoline,Gray,4.8,287,Automatic,Base,Whiteborough,68,Female
+9/11/2025,East,Michael Gardner,Nissan,Altima,2023,69135.27,4,Lease,Hatchback,Diesel,Silver,4.2,409,Automatic,Sport,Pamelamouth,36,Male
+5/29/2023,West,Jonathan Jordan,Hyundai,Elantra,2024,38315.44,1,Bank Transfer,Hatchback,Diesel,Blue,2.8,148,Manual,Premium,North Patricia,53,Male
+3/27/2023,West,Bruce Martinez,Hyundai,Tucson,2020,59330.62,3,Lease,Truck,Gasoline,Blue,3.4,202,Automatic,Base,East Steven,51,Male
+10/5/2024,North,Jessica Myers,Hyundai,Tucson,2024,59255.57,4,Bank Transfer,SUV,Diesel,White,2.1,354,Manual,Base,Andrewbury,43,Female
+10/19/2024,South,Natasha Byrd,Chevrolet,Impala,2021,27711.08,4,Bank Transfer,Truck,Gasoline,White,4.7,401,Manual,Sport,North Jared,39,Female
+7/14/2025,South,Cameron Lewis,Honda,Pilot,2021,62234.54,4,Credit Card,Truck,Gasoline,White,4.2,255,Manual,Base,North Donald,36,Male
